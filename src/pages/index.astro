@@ -17,8 +17,8 @@ const recipes = recipesData.recipes;
         <h1 class="text-xl font-bold text-text">晚餐 recipes</h1>
       </div>
       <nav class="hidden md:flex items-center gap-6">
-        <a href="#recipes" class="text-text-muted hover:text-primary transition-colors">食譜</a>
-        <a href="#about" class="text-text-muted hover:text-primary transition-colors">關於</a>
+        <a href="/-IThund-dinner-recipe/#recipes" class="text-text-muted hover:text-primary transition-colors">食譜</a>
+        <a href="/-IThund-dinner-recipe/#about" class="text-text-muted hover:text-primary transition-colors">關於</a>
       </nav>
     </div>
   </header>
@@ -156,7 +156,7 @@ const recipes = recipesData.recipes;
       <div id="recipeGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {recipes.map((recipe) => (
           <article class="recipe-card bg-card-bg rounded-2xl overflow-hidden border border-secondary hover:border-primary hover:shadow-xl transition-all cursor-pointer" data-cuisine={recipe.cuisine} data-budget={recipe.budget} data-serves={recipe.serves} data-time={recipe.time} data-dietary={recipe.dietary.join(',')}>
-            <a href={`/recipe/${recipe.slug}`} class="block">
+            <a href={`/-IThund-dinner-recipe/recipe/${recipe.slug}`} class="block">
               <div class="aspect-[4/3] overflow-hidden bg-secondary/30">
                 <img
                   src={recipe.image}
