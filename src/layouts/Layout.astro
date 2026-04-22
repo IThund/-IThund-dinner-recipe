@@ -40,25 +40,28 @@ const { title } = Astro.props;
     animation: dicePulse 2.5s ease-out forwards;
   }
 
+  .dice-highlight {
+    border-color: #C4785C !important;
+    border-width: 4px !important;
+    border-style: solid !important;
+    animation: dicePulse 2.5s ease-out forwards;
+  }
+
   @keyframes dicePulse {
     0% {
-      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0.6);
-      transform: scale(1.02);
+      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0.7), 0 8px 32px rgba(196, 120, 92, 0.4);
+      transform: scale(1.05);
     }
-    15% {
-      box-shadow: 0 0 0 12px rgba(196, 120, 92, 0);
+    25% {
+      box-shadow: 0 0 0 16px rgba(196, 120, 92, 0), 0 8px 32px rgba(196, 120, 92, 0.4);
+      transform: scale(1.06);
+    }
+    50% {
+      box-shadow: 0 0 0 10px rgba(196, 120, 92, 0.3), 0 8px 24px rgba(196, 120, 92, 0.3);
       transform: scale(1.04);
     }
-    40% {
-      box-shadow: 0 0 0 8px rgba(196, 120, 92, 0.3);
-      transform: scale(1.02);
-    }
-    70% {
-      box-shadow: 0 0 0 4px rgba(196, 120, 92, 0.15);
-      transform: scale(1.01);
-    }
     100% {
-      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0);
+      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0), 0 4px 16px rgba(196, 120, 92, 0.15);
       transform: scale(1);
     }
   }
