@@ -155,7 +155,7 @@ const recipes = recipesData.recipes;
     <div class="max-w-7xl mx-auto px-4">
       <div id="recipeGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {recipes.map((recipe) => (
-          <article class="recipe-card bg-card-bg rounded-2xl overflow-hidden border border-secondary hover:border-primary hover:shadow-xl transition-all cursor-pointer" data-cuisine={recipe.cuisine} data-budget={recipe.budget} data-serves={recipe.serves} data-time={recipe.time} data-dietary={recipe.dietary.join(',')}>
+          <article class="recipe-card bg-card-bg rounded-2xl overflow-hidden border border-secondary hover:border-primary hover:shadow-xl transition-all cursor-pointer" data-cuisine={recipe.cuisine} data-budget={recipe.budget} data-serves={recipe.serves} data-time={recipe.time} data-dietary={recipe.dietary.join(',')} data-ingredients={recipe.ingredients.join('|')}>
             <a href={`/-IThund-dinner-recipe/recipe/${recipe.slug}`} class="block">
               <div class="aspect-[4/3] overflow-hidden bg-secondary/30">
                 <img
@@ -434,7 +434,10 @@ const recipes = recipesData.recipes;
       // Search filter
       if (filters.search) {
         const cardText = card.textContent.toLowerCase();
-        if (!cardText.includes(filters.search.toLowerCase())) {
+        const ingredients = card.dataset.ingredients.toLowerCase();
+        const searchTerm = filters.search.toLowerCase();
+        
+        if (!cardText.includes(searchTerm) && !ingredients.includes(searchTerm)) {
           show = false;
         }
       }

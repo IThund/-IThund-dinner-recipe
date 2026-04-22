@@ -10,11 +10,26 @@
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1613844237701-8f3664fc2eff?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1589897623340-903fb346410d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "低GI蛋白質，唔落豉油或用低鈉豉油",
-      "ingredients": ["魚肉 300g", "薑 3片", "蔥 2條", "鹽 少許", "油 1茶匙"],
-      "steps": ["魚肉洗淨，用鹽醃10分鐘", "薑片鋪係魚面", "水滾後大火蒸8-10分鐘", "撒上蔥花，淋上熱油"],
+      "ingredients": [
+        "魚肉 300g",
+        "薑 3片",
+        "蔥 2條",
+        "鹽 少許",
+        "油 1茶匙"
+      ],
+      "steps": [
+        "魚肉洗淨，用鹽醃10分鐘",
+        "薑片鋪係魚面",
+        "水滾後大火蒸8-10分鐘",
+        "撒上蔥花，淋上熱油"
+      ],
       "tips": "Low GI protein, skip soy sauce or use low-sodium"
     },
     {
@@ -27,11 +42,26 @@
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://plus.unsplash.com/premium_photo-1700179396194-a7b88a692a3a?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "用少油；番茄係低GI食物",
-      "ingredients": ["番茄 2個", "蛋 3隻", "鹽 少許", "油 1湯匙"],
-      "steps": ["番茄切塊備用", "蛋打散備用", "少油熱鑊，先炒蛋至半熟", "加入番茄炒至軟身", "加少許鹽調味即可"],
+      "ingredients": [
+        "番茄 2個",
+        "蛋 3隻",
+        "鹽 少許",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "番茄切塊備用",
+        "蛋打散備用",
+        "少油熱鑊，先炒蛋至半熟",
+        "加入番茄炒至軟身",
+        "加少許鹽調味即可"
+      ],
       "tips": "Use minimal oil; tomatoes are low GI"
     },
     {
@@ -44,11 +74,26 @@
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1719785045950-621cb0ea9d82?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "高蛋白質，非常低碳水",
-      "ingredients": ["菠菜 200g", "豆腐 1磚", "鹽 少許", "水 4碗"],
-      "steps": ["菠菜洗淨切段", "豆腐切小塊", "水滾後加入豆腐", "加入菠菜煮至軟身", "加鹽調味"],
+      "ingredients": [
+        "菠菜 200g",
+        "豆腐 1磚",
+        "鹽 少許",
+        "水 4碗"
+      ],
+      "steps": [
+        "菠菜洗淨切段",
+        "豆腐切小塊",
+        "水滾後加入豆腐",
+        "加入菠菜煮至軟身",
+        "加鹽調味"
+      ],
       "tips": "High protein, very low carb"
     },
     {
@@ -61,11 +106,25 @@
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1719384966291-9eb1b5005f49?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "唔使煮，低GI，清爽配菜",
-      "ingredients": ["黃瓜 2條", "蒜蓉 1茶匙", "醋 1湯匙", "麻油 少許"],
-      "steps": ["黃瓜用刀拍碎，切成小段", "加入少許鹽醃5分鐘", "倒走多餘水分", "加入蒜蓉、醋、麻油撈勻"],
+      "ingredients": [
+        "黃瓜 2條",
+        "蒜蓉 1茶匙",
+        "醋 1湯匙",
+        "麻油 少許"
+      ],
+      "steps": [
+        "黃瓜用刀拍碎，切成小段",
+        "加入少許鹽醃5分鐘",
+        "倒走多餘水分",
+        "加入蒜蓉、醋、麻油撈勻"
+      ],
       "tips": "No cook, low GI, refreshing side"
     },
     {
@@ -78,11 +137,26 @@
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1719784521246-a944c11b8f97?q=80&w=2090&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "高纖維，用蒜代替糖",
-      "ingredients": ["豆苗 300g", "蒜 3瓣", "鹽 少許", "油 1湯匙"],
-      "steps": ["豆苗洗淨備用", "蒜切片", "熱鑊落油，加入蒜爆香", "加入豆苗快炒2-3分鐘", "加少許鹽調味即成"],
+      "ingredients": [
+        "豆苗 300g",
+        "蒜 3瓣",
+        "鹽 少許",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "豆苗洗淨備用",
+        "蒜切片",
+        "熱鑊落油，加入蒜爆香",
+        "加入豆苗快炒2-3分鐘",
+        "加少許鹽調味即成"
+      ],
       "tips": "High fibre, swap oyster sauce for low-sodium"
     },
     {
@@ -95,11 +169,27 @@
       "serves": 4,
       "time": 25,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/36964131/pexels-photo-36964131.jpeg?_gl=1*vbr0ud*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIyNjY2JGo1NiRsMCRoMA..",
       "description": "冬瓜係非常低GI既食材",
-      "ingredients": ["冬瓜 500g", "排骨 300g", "薑 3片", "鹽 少許"],
-      "steps": ["排骨洗淨，飛水備用", "冬瓜去皮切塊", "水滾加入排骨、薑片", "中火煲20分鐘", "加入冬瓜再煲15分鐘", "加鹽調味"],
+      "ingredients": [
+        "冬瓜 500g",
+        "排骨 300g",
+        "薑 3片",
+        "鹽 少許"
+      ],
+      "steps": [
+        "排骨洗淨，飛水備用",
+        "冬瓜去皮切塊",
+        "水滾加入排骨、薑片",
+        "中火煲20分鐘",
+        "加入冬瓜再煲15分鐘",
+        "加鹽調味"
+      ],
       "tips": "Winter melon is very low GI"
     },
     {
@@ -112,11 +202,25 @@
       "serves": 2,
       "time": 12,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1bd0fd80?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/15568733/pexels-photo-15568733.jpeg?_gl=1*13spq7v*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIyNzE3JGo1JGwwJGgw",
       "description": "低碳水，對血糖影響細",
-      "ingredients": ["蛋 3隻", "水 1杯", "鹽 少許", "蔥花 適量"],
-      "steps": ["蛋打散，加入水同鹽撈勻", "用細火蒸8-10分鐘", "表面凝固即可", "撒上蔥花"],
+      "ingredients": [
+        "蛋 3隻",
+        "水 1杯",
+        "鹽 少許",
+        "蔥花 適量"
+      ],
+      "steps": [
+        "蛋打散，加入水同鹽撈勻",
+        "用細火蒸8-10分鐘",
+        "表面凝固即可",
+        "撒上蔥花"
+      ],
       "tips": "Low carb, gentle on blood sugar"
     },
     {
@@ -129,11 +233,26 @@
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/7363763/pexels-photo-7363763.jpeg?_gl=1*15ivuon*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIyODA0JGozNCRsMCRoMA..",
       "description": "高纖維，用蒜唔好落糖",
-      "ingredients": ["芥蘭 400g", "蒜 3瓣", "鹽 少許", "油 1湯匙"],
-      "steps": ["芥蘭洗淨切段", "蒜切片", "熱鑊落油，加入蒜爆香", "加入芥蘭快炒3分鐘", "加少許鹽調味"],
+      "ingredients": [
+        "芥蘭 400g",
+        "蒜 3瓣",
+        "鹽 少許",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "芥蘭洗淨切段",
+        "蒜切片",
+        "熱鑊落油，加入蒜爆香",
+        "加入芥蘭快炒3分鐘",
+        "加少許鹽調味"
+      ],
       "tips": "High fibre, use garlic not sugar"
     },
     {
@@ -146,11 +265,24 @@
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/30682816/pexels-photo-30682816.jpeg?_gl=1*1s5ikzp*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIyODQxJGo1OSRsMCRoMA..",
       "description": "選低鈉味噌，高蛋白質",
-      "ingredients": ["豆腐 1磚", "味噌 2湯匙", "水 3碗", "蔥花 適量"],
-      "steps": ["水滾加入豆腐", "熄火，加入味噌撈勻(切勿滾起)", "撒上蔥花即可"],
+      "ingredients": [
+        "豆腐 1磚",
+        "味噌 2湯匙",
+        "水 3碗",
+        "蔥花 適量"
+      ],
+      "steps": [
+        "水滾加入豆腐",
+        "熄火，加入味噌撈勻(切勿滾起)",
+        "撒上蔥花即可"
+      ],
       "tips": "Choose low-sodium miso, protein-rich"
     },
     {
@@ -163,453 +295,842 @@
       "serves": 2,
       "time": 20,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&h=300&fit=crop",
       "description": "無醃料糖分，帶皮都OK",
-      "ingredients": ["雞髀 2隻", "鹽 少許", "黑胡椒 少許", "油 1茶匙"],
-      "steps": ["雞髀洗淨，用鹽同胡椒醃10分鐘", "熱鑊落油，皮面朝下", "中火煎8分鐘至皮脆", "反轉再煎6分鐘", "切件上碟"],
+      "ingredients": [
+        "雞髀 2隻",
+        "鹽 少許",
+        "黑胡椒 少許",
+        "油 1茶匙"
+      ],
+      "steps": [
+        "雞髀洗淨，用鹽同胡椒醃10分鐘",
+        "熱鑊落油，皮面朝下",
+        "中火煎8分鐘至皮脆",
+        "反轉再煎6分鐘",
+        "切件上碟"
+      ],
       "tips": "No marinade sugar; skin-on is fine"
     },
     {
       "id": "11",
       "slug": "bo-cao-ohitashi",
-      "title": "菠菜おひたし",
+      "title": "菠菜冷拌",
       "titleEn": "Spinach Ohitashi",
       "cuisine": "japanese",
       "budget": 20,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1576021182211-9ea8dced3690?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/8897412/pexels-photo-8897412.jpeg?_gl=1*nc3ae8*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzMDAwJGoyMSRsMCRoMA..",
       "description": "灼菠菜配出汁，非常低碳水",
-      "ingredients": ["菠菜 200g", "出汁 50ml", "醬油 1茶匙"],
-      "steps": ["菠菜洗淨，水滾灼1分鐘", "撈起過冷河", "擠乾水分，切成小段", "混合出汁同醬油", "淋上菠菜即可"],
+      "ingredients": [
+        "菠菜 200g",
+        "出汁 50ml",
+        "醬油 1茶匙"
+      ],
+      "steps": [
+        "菠菜洗淨，水滾灼1分鐘",
+        "撈起過冷河",
+        "擠乾水分，切成小段",
+        "混合出汁同醬油",
+        "淋上菠菜即可"
+      ],
       "tips": "Blanched spinach with dashi, very low carb"
     },
     {
       "id": "12",
       "slug": "shirataki-chao",
-      "title": "しらたき炒め",
+      "title": "蒟蒻麵炒",
       "titleEn": "Shirataki Noodle Stir-fry",
       "cuisine": "japanese",
       "budget": 30,
       "serves": 2,
       "time": 12,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?w=400&h=300&fit=crop",
       "description": "近乎零碳水既麵條替代品",
-      "ingredients": ["蒟蒻麵 200g", "蔬菜 100g", "醬油 1湯匙", "蒜 1瓣"],
-      "steps": ["蒟蒻麵洗淨，飛水備用", "熱鑊落油，加入蒜爆香", "加入蔬菜炒至軟身", "加入蒟蒻麵快炒2分鐘", "加入醬油調味"],
+      "ingredients": [
+        "蒟蒻麵 200g",
+        "蔬菜 100g",
+        "醬油 1湯匙",
+        "蒜 1瓣"
+      ],
+      "steps": [
+        "蒟蒻麵洗淨，飛水備用",
+        "熱鑊落油，加入蒜爆香",
+        "加入蔬菜炒至軟身",
+        "加入蒟蒻麵快炒2分鐘",
+        "加入醬油調味"
+      ],
       "tips": "Near-zero carb noodle substitute"
     },
     {
       "id": "13",
       "slug": "qing-gua-su-no-mono",
-      "title": "きゅうりの酢の物",
+      "title": "黃瓜醋拌",
       "titleEn": "Cucumber Sunomono",
       "cuisine": "japanese",
       "budget": 20,
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1740797922467-1fcdeecd7d9c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "低GI，醬汁唔好落太多糖",
-      "ingredients": ["青瓜 1條", "醋 2湯匙", "醬油 1茶匙", "代糖 1茶匙"],
-      "steps": ["青瓜切薄片", "加入少許鹽醃5分鐘", "倒走水分", "混合醋、醬油、代糖", "淋上青瓜即可"],
+      "ingredients": [
+        "青瓜 1條",
+        "醋 2湯匙",
+        "醬油 1茶匙",
+        "代糖 1茶匙"
+      ],
+      "steps": [
+        "青瓜切薄片",
+        "加入少許鹽醃5分鐘",
+        "倒走水分",
+        "混合醋、醬油、代糖",
+        "淋上青瓜即可"
+      ],
       "tips": "Low GI, limit sugar in dressing"
     },
     {
       "id": "14",
       "slug": "bao-yu-muni-er",
-      "title": "鮭のムニエル",
+      "title": "煎鮭魚",
       "titleEn": "Pan-fried Salmon",
       "cuisine": "japanese",
       "budget": 70,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
       "description": "含豐富奧米加3，零碳水",
-      "ingredients": ["三文魚 2塊", "鹽 少許", "胡椒 少許", "油 1湯匙"],
-      "steps": ["三文魚洗淨，用鹽同胡椒醃5分鐘", "熱鑊落油，皮面朝下", "中火煎4分鐘至皮脆", "反轉再煎2分鐘", "擠少許檸檬汁即可"],
+      "ingredients": [
+        "三文魚 2塊",
+        "鹽 少許",
+        "胡椒 少許",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "三文魚洗淨，用鹽同胡椒醃5分鐘",
+        "熱鑊落油，皮面朝下",
+        "中火煎4分鐘至皮脆",
+        "反轉再煎2分鐘",
+        "擠少許檸檬汁即可"
+      ],
       "tips": "Rich in omega-3, zero carbs"
     },
     {
       "id": "15",
       "slug": "dou-fu-sute-ki",
-      "title": "豆腐ステーキ",
+      "title": "豆腐煎排",
       "titleEn": "Tofu Steak",
       "cuisine": "japanese",
       "budget": 25,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
       "description": "高蛋白質，硬豆腐較易煎",
-      "ingredients": ["硬豆腐 1磚", "醬油 1湯匙", "味醂 1茶匙", "油 1湯匙"],
-      "steps": ["豆腐切厚件，吸乾水分", "熱鑊落油，兩面煎至金黃", "混合醬油同味醂", "淋上豆腐"],
+      "ingredients": [
+        "硬豆腐 1磚",
+        "醬油 1湯匙",
+        "味醂 1茶匙",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "豆腐切厚件，吸乾水分",
+        "熱鑊落油，兩面煎至金黃",
+        "混合醬油同味醂",
+        "淋上豆腐"
+      ],
       "tips": "High protein, firm tofu keeps shape"
     },
     {
       "id": "16",
       "slug": "leng-dou-fu",
-      "title": "냉두부",
+      "title": "冷豆腐",
       "titleEn": "Cold Tofu with Soy & Sesame",
       "cuisine": "korean",
       "budget": 20,
       "serves": 2,
       "time": 5,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/9356997/pexels-photo-9356997.jpeg?_gl=1*gkagb0*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzMjE3JGozNSRsMCRoMA..",
       "description": "唔使煮，低碳水，充滿蛋白質",
-      "ingredients": ["豆腐 1磚", "醬油 1湯匙", "芝麻油 1茶匙", "芝麻 1茶匙"],
-      "steps": ["豆腐切件", "混合醬油同芝麻油", "淋上豆腐", "撒上芝麻"],
+      "ingredients": [
+        "豆腐 1磚",
+        "醬油 1湯匙",
+        "芝麻油 1茶匙",
+        "芝麻 1茶匙"
+      ],
+      "steps": [
+        "豆腐切件",
+        "混合醬油同芝麻油",
+        "淋上豆腐",
+        "撒上芝麻"
+      ],
       "tips": "No-cook, low carb, filling protein"
     },
     {
       "id": "17",
       "slug": "shi-geum-ji-na-mul",
-      "title": "시금치나물",
+      "title": "菠菜拌菜",
       "titleEn": "Spinach Namul",
       "cuisine": "korean",
       "budget": 20,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1576021182211-9ea8dced3690?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/8827802/pexels-photo-8827802.jpeg?_gl=1*1ic19wf*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzMjczJGo1MiRsMCRoMA..",
       "description": "調味菠菜，用少油",
-      "ingredients": ["菠菜 200g", "蒜蓉 1茶匙", "芝麻油 1茶匙", "醬油 1茶匙"],
-      "steps": ["菠菜洗淨，水滾灼1分鐘", "撈起過冷河", "擠乾水分", "加入蒜蓉、醬油、芝麻油撈勻", "撒上芝麻"],
+      "ingredients": [
+        "菠菜 200g",
+        "蒜蓉 1茶匙",
+        "芝麻油 1茶匙",
+        "醬油 1茶匙"
+      ],
+      "steps": [
+        "菠菜洗淨，水滾灼1分鐘",
+        "撈起過冷河",
+        "擠乾水分",
+        "加入蒜蓉、醬油、芝麻油撈勻",
+        "撒上芝麻"
+      ],
       "tips": "Seasoned spinach, minimal oil"
     },
     {
       "id": "18",
       "slug": "gye-ran-guk",
-      "title": "계란국",
+      "title": "蛋湯",
       "titleEn": "Egg Drop Soup",
       "cuisine": "korean",
       "budget": 20,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/6646159/pexels-photo-6646159.jpeg?_gl=1*16pxzfl*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzMzIzJGoyJGwwJGgw",
       "description": "清湯底，高蛋白質，低GI",
-      "ingredients": ["蛋 2隻", "水 3碗", "鹽 少許", "蔥花 適量"],
-      "steps": ["水滾後加少許鹽", "打散蛋，慢慢倒入滾水", "用筷子輕輕搞動", "熄火，撒上蔥花同麻油"],
+      "ingredients": [
+        "蛋 2隻",
+        "水 3碗",
+        "鹽 少許",
+        "蔥花 適量"
+      ],
+      "steps": [
+        "水滾後加少許鹽",
+        "打散蛋，慢慢倒入滾水",
+        "用筷子輕輕搞動",
+        "熄火，撒上蔥花同麻油"
+      ],
       "tips": "Light broth, high protein, low GI"
     },
     {
       "id": "19",
       "slug": "dou-bu-jo-rim",
-      "title": "두부조림",
+      "title": "辣豆腐燉",
       "titleEn": "Braised Spicy Tofu",
       "cuisine": "korean",
       "budget": 30,
       "serves": 2,
       "time": 20,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/34618075/pexels-photo-34618075.jpeg?_gl=1*1qj3fsy*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzMzYzJGoyOSRsMCRoMA..",
       "description": "用辣椒粉代替辣醬，減少糖分",
-      "ingredients": ["豆腐 1磚", "辣椒粉 1湯匙", "醬油 1湯匙", "蒜蓉 1茶匙"],
-      "steps": ["豆腐切塊", "熱鑊落油，加入蒜蓉爆香", "加入豆腐煎至兩面金黃", "加入辣椒粉同醬油", "加入少許水，燜5分鐘"],
+      "ingredients": [
+        "豆腐 1磚",
+        "辣椒粉 1湯匙",
+        "醬油 1湯匙",
+        "蒜蓉 1茶匙"
+      ],
+      "steps": [
+        "豆腐切塊",
+        "熱鑊落油，加入蒜蓉爆香",
+        "加入豆腐煎至兩面金黃",
+        "加入辣椒粉同醬油",
+        "加入少許水，燜5分鐘"
+      ],
       "tips": "Use gochugaru not gochujang to reduce sugar"
     },
     {
       "id": "20",
       "slug": "o-i-mu-chim",
-      "title": "오이무침",
+      "title": "辣黃瓜拌",
       "titleEn": "Spicy Cucumber Salad",
       "cuisine": "korean",
       "budget": 20,
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/27588101/pexels-photo-27588101.jpeg?_gl=1*zhibdy*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNDA4JGo0NyRsMCRoMA..",
       "description": "唔使煮，非常低GI",
-      "ingredients": ["青瓜 1條", "辣椒粉 1茶匙", "醬油 1茶匙", "醋 1茶匙"],
-      "steps": ["青瓜切塊", "加入辣椒粉、醬油、醋撈勻", "撒上芝麻", "雪凍更佳"],
+      "ingredients": [
+        "青瓜 1條",
+        "辣椒粉 1茶匙",
+        "醬油 1茶匙",
+        "醋 1茶匙"
+      ],
+      "steps": [
+        "青瓜切塊",
+        "加入辣椒粉、醬油、醋撈勻",
+        "撒上芝麻",
+        "雪凍更佳"
+      ],
       "tips": "No-cook, very low GI"
     },
     {
       "id": "21",
       "slug": "doen-jang-jji-gae",
-      "title": "된장찌개",
+      "title": "豆瓣醬鍋",
       "titleEn": "Doenjang Jjigae",
       "cuisine": "korean",
       "budget": 40,
       "serves": 2,
       "time": 25,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/20943933/pexels-photo-20943933.jpeg?_gl=1*1m2zqmq*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNDQ3JGo4JGwwJGgw",
       "description": "發酵豆瓣醬係低GI；唔好加年糕",
-      "ingredients": ["大醬 2湯匙", "豆腐 1磚", "蔬菜 100g", "水 3碗"],
-      "steps": ["水滾加入大醬搞勻", "加入豆腐同蔬菜", "中火煲15分鐘", "加入蒜蓉"],
+      "ingredients": [
+        "大醬 2湯匙",
+        "豆腐 1磚",
+        "蔬菜 100g",
+        "水 3碗"
+      ],
+      "steps": [
+        "水滾加入大醬搞勻",
+        "加入豆腐同蔬菜",
+        "中火煲15分鐘",
+        "加入蒜蓉"
+      ],
       "tips": "Fermented soy is low GI; skip rice cake"
     },
     {
       "id": "22",
       "slug": "kong-na-mul-guk",
-      "title": "콩나물국",
+      "title": "豆芽湯",
       "titleEn": "Soybean Sprout Soup",
       "cuisine": "korean",
       "budget": 25,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/37193497/pexels-photo-37193497.jpeg?_gl=1*1r9xygx*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNDcyJGo1MiRsMCRoMA..",
       "description": "高纖維，非常低碳水",
-      "ingredients": ["豆芽 300g", "水 3碗", "鹽 少許", "蒜 1瓣"],
-      "steps": ["豆芽洗淨備用", "水滾加入蒜蓉", "加入豆芽煮5分鐘", "加鹽調味", "撒上蔥花"],
+      "ingredients": [
+        "豆芽 300g",
+        "水 3碗",
+        "鹽 少許",
+        "蒜 1瓣"
+      ],
+      "steps": [
+        "豆芽洗淨備用",
+        "水滾加入蒜蓉",
+        "加入豆芽煮5分鐘",
+        "加鹽調味",
+        "撒上蔥花"
+      ],
       "tips": "High fibre, very low carb"
     },
     {
       "id": "23",
       "slug": "thai-mixed-veggie",
-      "title": "ผัดผักรวม",
+      "title": "泰式混合蔬菜炒",
       "titleEn": "Thai Mixed Veggie Stir-fry",
       "cuisine": "thai",
       "budget": 40,
       "serves": 2,
       "time": 12,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/37073152/pexels-photo-37073152.jpeg?_gl=1*tj3odg*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNTAwJGoyNCRsMCRoMA..",
       "description": "用魚露代替甜豉油",
-      "ingredients": ["混合蔬菜 300g", "魚露 1湯匙", "蒜 2瓣", "油 1湯匙"],
-      "steps": ["蔬菜洗淨切段", "熱鑊落油，加入蒜爆香", "加入蔬菜快炒3分鐘", "加入魚露調味"],
+      "ingredients": [
+        "混合蔬菜 300g",
+        "魚露 1湯匙",
+        "蒜 2瓣",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "蔬菜洗淨切段",
+        "熱鑊落油，加入蒜爆香",
+        "加入蔬菜快炒3分鐘",
+        "加入魚露調味"
+      ],
       "tips": "Use fish sauce not sweet soy"
     },
     {
       "id": "24",
       "slug": "thai-tofu-clear-soup",
-      "title": "ต้มจืดเต้าหู้",
+      "title": "泰式清湯豆腐",
       "titleEn": "Thai Clear Tofu Soup",
       "cuisine": "thai",
       "budget": 30,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/35049882/pexels-photo-35049882.jpeg?_gl=1*818xyc*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNTM1JGo1MCRsMCRoMA..",
       "description": "清湯底，無麵條，低GI",
-      "ingredients": ["豆腐 1磚", "蔬菜 100g", "水 3碗", "魚露 1茶匙"],
-      "steps": ["水滾加入切丁豆腐", "加入蔬菜煮5分鐘", "加入魚露調味", "撒上蔥花"],
+      "ingredients": [
+        "豆腐 1磚",
+        "蔬菜 100g",
+        "水 3碗",
+        "魚露 1茶匙"
+      ],
+      "steps": [
+        "水滾加入切丁豆腐",
+        "加入蔬菜煮5分鐘",
+        "加入魚露調味",
+        "撒上蔥花"
+      ],
       "tips": "Light broth, no noodles = low GI"
     },
     {
       "id": "25",
       "slug": "wing-bean-salad",
-      "title": "ยำถั่วพู",
+      "title": "泰式豆沙拌",
       "titleEn": "Wing Bean Salad",
       "cuisine": "thai",
       "budget": 35,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/37090666/pexels-photo-37090666.jpeg?_gl=1*17ejb34*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNjAyJGo0MyRsMCRoMA..",
       "description": "高蛋白質豆類，新鮮香草",
-      "ingredients": ["四季豆 200g", "番茄 1個", "魚露 1湯匙", "檸檬汁 1湯匙"],
-      "steps": ["四季豆切段，飛水備用", "番茄切件", "混合魚露同檸檬汁", "撈勻所有材料"],
+      "ingredients": [
+        "四季豆 200g",
+        "番茄 1個",
+        "魚露 1湯匙",
+        "檸檬汁 1湯匙"
+      ],
+      "steps": [
+        "四季豆切段，飛水備用",
+        "番茄切件",
+        "混合魚露同檸檬汁",
+        "撈勻所有材料"
+      ],
       "tips": "High protein legume, fresh herbs"
     },
     {
       "id": "26",
       "slug": "ginger-fish",
-      "title": "ปลาผัดขิง",
+      "title": "泰式薑魚炒",
       "titleEn": "Ginger Fish Stir-fry",
       "cuisine": "thai",
       "budget": 50,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/37090675/pexels-photo-37090675.jpeg?_gl=1*byafi1*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNjM5JGo2JGwwJGgw",
       "description": "瘦蛋白質，薑可改善胰島素敏感度",
-      "ingredients": ["魚肉 300g", "薑 3片", "蒜 2瓣", "魚露 1湯匙"],
-      "steps": ["魚肉切塊，用少許鹽醃", "熱鑊落油，加入薑蒜爆香", "加入魚肉煎至金黃", "加入魚露調味"],
+      "ingredients": [
+        "魚肉 300g",
+        "薑 3片",
+        "蒜 2瓣",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "魚肉切塊，用少許鹽醃",
+        "熱鑊落油，加入薑蒜爆香",
+        "加入魚肉煎至金黃",
+        "加入魚露調味"
+      ],
       "tips": "Lean protein, fresh ginger improves insulin sensitivity"
     },
     {
       "id": "27",
       "slug": "thai-steamed-egg",
-      "title": "ไข่ตุ๋น",
+      "title": "泰式蒸蛋",
       "titleEn": "Thai Steamed Egg",
       "cuisine": "thai",
       "budget": 25,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1bd0fd80?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/36964133/pexels-photo-36964133.jpeg?_gl=1*1t60wk0*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzNzE3JGo3JGwwJGgw",
       "description": "類似蒸蛋，低碳水",
-      "ingredients": ["蛋 3隻", "水 1/2杯", "魚露 1茶匙"],
-      "steps": ["蛋打散，加入水同魚露", "倒入蒸碗", "大火蒸8-10分鐘"],
+      "ingredients": [
+        "蛋 3隻",
+        "水 1/2杯",
+        "魚露 1茶匙"
+      ],
+      "steps": [
+        "蛋打散，加入水同魚露",
+        "倒入蒸碗",
+        "大火蒸8-10分鐘"
+      ],
       "tips": "Similar to chawanmushi, low carb"
     },
     {
       "id": "28",
       "slug": "thai-clear-veggie-soup",
-      "title": "แกงจืดผักรวม",
+      "title": "泰式清蔬湯",
       "titleEn": "Clear Veggie Soup",
       "cuisine": "thai",
       "budget": 30,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1662655552348-4ad26f9d4e75?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "無椰奶，非常低脂肪同GI",
-      "ingredients": ["混合蔬菜 200g", "豆腐 1磚", "水 3碗", "魚露 1茶匙"],
-      "steps": ["水滾加入蔬菜", "加入切丁豆腐", "煮5分鐘", "加入魚露調味"],
+      "ingredients": [
+        "混合蔬菜 200g",
+        "豆腐 1磚",
+        "水 3碗",
+        "魚露 1茶匙"
+      ],
+      "steps": [
+        "水滾加入蔬菜",
+        "加入切丁豆腐",
+        "煮5分鐘",
+        "加入魚露調味"
+      ],
       "tips": "No coconut milk = very low fat & GI"
     },
     {
       "id": "29",
       "slug": "mushroom-yum",
-      "title": "ยำเห็ด",
+      "title": "泰式蘑菇沙律",
       "titleEn": "Mushroom Salad",
       "cuisine": "thai",
       "budget": 35,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1645066804320-b85e54b4339d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "低GI，高纖維蘑菇",
-      "ingredients": ["蘑菇 200g", "番茄 1個", "洋蔥 1/2個", "魚露 1湯匙"],
-      "steps": ["蘑菇切片", "番茄切件", "洋蔥切絲", "混合魚露同檸檬汁", "撈勻所有材料"],
+      "ingredients": [
+        "蘑菇 200g",
+        "番茄 1個",
+        "洋蔥 1/2個",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "蘑菇切片",
+        "番茄切件",
+        "洋蔥切絲",
+        "混合魚露同檸檬汁",
+        "撈勻所有材料"
+      ],
       "tips": "Low GI, high fibre mushrooms"
     },
     {
       "id": "30",
       "slug": "canh-chua-chay",
-      "title": "Canh chua chay",
+      "title": "越式酸菜素湯",
       "titleEn": "Veg Sour Soup",
       "cuisine": "vietnamese",
       "budget": 35,
       "serves": 4,
       "time": 20,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/17559227/pexels-photo-17559227.jpeg?_gl=1*1w1mque*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODIzODUwJGo0MSRsMCRoMA..",
       "description": "羅望子湯，唔好加糖",
-      "ingredients": ["蔬菜 200g", "豆腐 1磚", "羅望子醬 1湯匙", "水 4碗"],
-      "steps": ["水滾加入羅望子醬", "加入豆腐同蔬菜", "煮10分鐘", "加入魚露", "撒上香菜"],
+      "ingredients": [
+        "蔬菜 200g",
+        "豆腐 1磚",
+        "羅望子醬 1湯匙",
+        "水 4碗"
+      ],
+      "steps": [
+        "水滾加入羅望子醬",
+        "加入豆腐同蔬菜",
+        "煮10分鐘",
+        "加入魚露",
+        "撒上香菜"
+      ],
       "tips": "Tamarind broth, skip added sugar"
     },
     {
       "id": "31",
       "slug": "dau-phu-sot-ca-chua",
-      "title": "Đậu phụ sốt cà chua",
+      "title": "越式番茄豆腐",
       "titleEn": "Tofu Tomato",
       "cuisine": "vietnamese",
       "budget": 30,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
       "description": "番茄係低GI，醬汁輕盈",
-      "ingredients": ["豆腐 1磚", "番茄 2個", "蒜 2瓣", "魚露 1湯匙"],
-      "steps": ["豆腐切塊煎至金黃", "加入蒜蓉炒香", "加入番茄炒至軟身", "加入少許水燜2分鐘", "加入魚露調味"],
+      "ingredients": [
+        "豆腐 1磚",
+        "番茄 2個",
+        "蒜 2瓣",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "豆腐切塊煎至金黃",
+        "加入蒜蓉炒香",
+        "加入番茄炒至軟身",
+        "加入少許水燜2分鐘",
+        "加入魚露調味"
+      ],
       "tips": "Tomato is low GI, light sauce"
     },
     {
       "id": "32",
       "slug": "goi-bap-cai",
-      "title": "Gỏi bắp cải",
+      "title": "越式高麗菜沙律",
       "titleEn": "Cabbage Salad",
       "cuisine": "vietnamese",
       "budget": 25,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/3985872/pexels-photo-3985872.jpeg?_gl=1*x0eryj*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI1NDQ2JGoyNyRsMCRoMA..",
       "description": "唔使煮，高纖維，青檸汁醬汁",
-      "ingredients": ["椰菜 200g", "紅蘿蔔 1條", "青檸汁 2湯匙", "魚露 1湯匙"],
-      "steps": ["椰菜切絲", "紅蘿蔔刨絲", "混合青檸汁同魚露", "撈勻所有材料", "雪凍更佳"],
+      "ingredients": [
+        "椰菜 200g",
+        "紅蘿蔔 1條",
+        "青檸汁 2湯匙",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "椰菜切絲",
+        "紅蘿蔔刨絲",
+        "混合青檸汁同魚露",
+        "撈勻所有材料",
+        "雪凍更佳"
+      ],
       "tips": "No-cook, high fibre, lime dressing"
     },
     {
       "id": "33",
       "slug": "trung-hap",
-      "title": "Trứng hấp",
+      "title": "越式香草蒸蛋",
       "titleEn": "Steamed Egg with Herbs",
       "cuisine": "vietnamese",
       "budget": 20,
       "serves": 2,
       "time": 12,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1bd0fd80?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1630992930180-6c3beb8710fc?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "低碳水，加蒔蘿更香",
-      "ingredients": ["蛋 3隻", "水 1/2杯", "鹽 少許", "蒔蘿 適量"],
-      "steps": ["蛋打散，加入水同鹽", "加入切碎蒔蘿", "倒入蒸碗", "大火蒸8-10分鐘"],
+      "ingredients": [
+        "蛋 3隻",
+        "水 1/2杯",
+        "鹽 少許",
+        "蒔蘿 適量"
+      ],
+      "steps": [
+        "蛋打散，加入水同鹽",
+        "加入切碎蒔蘿",
+        "倒入蒸碗",
+        "大火蒸8-10分鐘"
+      ],
       "tips": "Low carb, fragrant with dill"
     },
     {
       "id": "34",
       "slug": "canh-rau-muong",
-      "title": "Canh rau muống",
+      "title": "越式蕹菜湯",
       "titleEn": "Morning Glory Soup",
       "cuisine": "vietnamese",
       "budget": 20,
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/36796685/pexels-photo-36796685.jpeg?_gl=1*16fo6az*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI1MDExJGo1NSRsMCRoMA..",
       "description": "綠葉蔬菜，非常低GI",
-      "ingredients": ["通菜 200g", "水 3碗", "蒜蓉 1茶匙", "魚露 1茶匙"],
-      "steps": ["通菜洗淨切段", "水滾加入蒜蓉", "加入通菜煮3分鐘", "加入魚露調味"],
+      "ingredients": [
+        "通菜 200g",
+        "水 3碗",
+        "蒜蓉 1茶匙",
+        "魚露 1茶匙"
+      ],
+      "steps": [
+        "通菜洗淨切段",
+        "水滾加入蒜蓉",
+        "加入通菜煮3分鐘",
+        "加入魚露調味"
+      ],
       "tips": "Leafy green, very low GI"
     },
     {
       "id": "35",
       "slug": "bo-xao-rau-can",
-      "title": "Bò xào rau cần",
+      "title": "越式牛肉芹菜炒",
       "titleEn": "Beef & Celery Stir-fry",
       "cuisine": "vietnamese",
       "budget": 50,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/15840965/pexels-photo-15840965.jpeg?_gl=1*1leuab7*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI1MzgwJGo0JGwwJGgw",
       "description": "瘦牛肉，高纖維芹菜",
-      "ingredients": ["牛肉 200g", "芹菜 200g", "蒜 2瓣", "魚露 1湯匙"],
-      "steps": ["牛肉切薄片，用少許醃料醃", "芹菜切段", "熱鑊落油，加入蒜爆香", "加入牛肉炒至變色", "加入芹菜快炒2分鐘", "加入魚露調味"],
+      "ingredients": [
+        "牛肉 200g",
+        "芹菜 200g",
+        "蒜 2瓣",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "牛肉切薄片，用少許醃料醃",
+        "芹菜切段",
+        "熱鑊落油，加入蒜爆香",
+        "加入牛肉炒至變色",
+        "加入芹菜快炒2分鐘",
+        "加入魚露調味"
+      ],
       "tips": "Lean beef, high fibre celery"
     },
     {
       "id": "36",
       "slug": "goi-ngo-sen",
-      "title": "Gỏi ngó sen",
+      "title": "越式蓮根沙律",
       "titleEn": "Lotus Root Salad",
       "cuisine": "vietnamese",
       "budget": 30,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb"
+      ],
       "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=300&fit=crop",
       "description": "中等GI；用醋醬汁",
-      "ingredients": ["蓮藕 200g", "紅蘿蔔 1條", "醋 2湯匙", "魚露 1湯匙"],
-      "steps": ["蓮藕切片，飛水備用", "紅蘿蔔刨絲", "混合醋同魚露", "撈勻所有材料", "撒上香菜"],
+      "ingredients": [
+        "蓮藕 200g",
+        "紅蘿蔔 1條",
+        "醋 2湯匙",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "蓮藕切片，飛水備用",
+        "紅蘿蔔刨絲",
+        "混合醋同魚露",
+        "撈勻所有材料",
+        "撒上香菜"
+      ],
       "tips": "Moderate GI; use vinegar dressing"
     },
     {
@@ -622,11 +1143,27 @@
       "serves": 2,
       "time": 20,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/36120987/pexels-photo-36120987.jpeg?_gl=1*1mpxpc6*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI1MjEwJGo1NCRsMCRoMA..",
       "description": "減少麻油同埋唔好落糖",
-      "ingredients": ["豆腐 1磚", "麻油 1茶匙", "醬油 1湯匙", "蒜 3瓣", "九層塔 適量"],
-      "steps": ["豆腐切塊", "熱鑊落油，加入薑蒜爆香", "加入豆腐煎至金黃", "加入醬油同少許水", "加入九層塔，快手炒勻"],
+      "ingredients": [
+        "豆腐 1磚",
+        "麻油 1茶匙",
+        "醬油 1湯匙",
+        "蒜 3瓣",
+        "九層塔 適量"
+      ],
+      "steps": [
+        "豆腐切塊",
+        "熱鑊落油，加入薑蒜爆香",
+        "加入豆腐煎至金黃",
+        "加入醬油同少許水",
+        "加入九層塔，快手炒勻"
+      ],
       "tips": "Halve sesame oil & skip sugar"
     },
     {
@@ -639,11 +1176,27 @@
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/27039868/pexels-photo-27039868.jpeg?_gl=1*1pohoyw*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0MDk4JGo0NCRsMCRoMA..",
       "description": "高蛋白質，非常低碳水",
-      "ingredients": ["蛤蠣 200g", "絲瓜 1條", "薑 2片", "鹽 少許"],
-      "steps": ["蛤蠣洗淨備用", "絲瓜去皮切塊", "水滾加入薑片", "加入絲瓜煮5分鐘", "加入蛤蠣至開口", "加鹽調味"],
+      "ingredients": [
+        "蛤蠣 200g",
+        "絲瓜 1條",
+        "薑 2片",
+        "鹽 少許"
+      ],
+      "steps": [
+        "蛤蠣洗淨備用",
+        "絲瓜去皮切塊",
+        "水滾加入薑片",
+        "加入絲瓜煮5分鐘",
+        "加入蛤蠣至開口",
+        "加鹽調味"
+      ],
       "tips": "High protein, very low carb"
     },
     {
@@ -656,11 +1209,25 @@
       "serves": 2,
       "time": 20,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1bd0fd80?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/32980754/pexels-photo-32980754.jpeg?_gl=1*wmw8cn*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0MTUzJGo1MiRsMCRoMA..",
       "description": "用低鈉醬油，優質蛋白質小食",
-      "ingredients": ["蛋 4隻", "醬油 2湯匙", "水 1杯", "八角 1粒"],
-      "steps": ["蛋煮熟，去殼", "用醬油、水、八角煮滾", "加入蛋，中火煮10分鐘", "熄火，焗30分鐘"],
+      "ingredients": [
+        "蛋 4隻",
+        "醬油 2湯匙",
+        "水 1杯",
+        "八角 1粒"
+      ],
+      "steps": [
+        "蛋煮熟，去殼",
+        "用醬油、水、八角煮滾",
+        "加入蛋，中火煮10分鐘",
+        "熄火，焗30分鐘"
+      ],
       "tips": "Use low-sodium soy, good protein snack"
     },
     {
@@ -673,11 +1240,25 @@
       "serves": 2,
       "time": 5,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=300&fit=crop",
       "description": "唔使煮，豐富蛋白質",
-      "ingredients": ["豆腐 1磚", "皮蛋 1隻", "醬油 1湯匙", "麻油 1茶匙"],
-      "steps": ["豆腐切件", "皮蛋切件", "放係豆腐面", "淋上醬油同麻油"],
+      "ingredients": [
+        "豆腐 1磚",
+        "皮蛋 1隻",
+        "醬油 1湯匙",
+        "麻油 1茶匙"
+      ],
+      "steps": [
+        "豆腐切件",
+        "皮蛋切件",
+        "放係豆腐面",
+        "淋上醬油同麻油"
+      ],
       "tips": "No-cook, rich protein"
     },
     {
@@ -690,11 +1271,26 @@
       "serves": 2,
       "time": 8,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1741243413081-999c4b1a80ab?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "非常低GI，富含葉酸",
-      "ingredients": ["青江菜 300g", "蒜 2瓣", "鹽 少許", "油 1湯匙"],
-      "steps": ["青江菜洗淨切段", "蒜切片", "熱鑊落油，加入蒜爆香", "加入青江菜快炒2分鐘", "加鹽調味"],
+      "ingredients": [
+        "青江菜 300g",
+        "蒜 2瓣",
+        "鹽 少許",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "青江菜洗淨切段",
+        "蒜切片",
+        "熱鑊落油，加入蒜爆香",
+        "加入青江菜快炒2分鐘",
+        "加鹽調味"
+      ],
       "tips": "Very low GI, high in folate"
     },
     {
@@ -707,11 +1303,22 @@
       "serves": 2,
       "time": 20,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly"],
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly"
+      ],
+      "image": "https://images.pexels.com/photos/5612346/pexels-photo-5612346.jpeg?_gl=1*14vkhpg*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI1MzI0JGo2MCRsMCRoMA..",
       "description": "中等GI；要注意分量",
-      "ingredients": ["南瓜 300g", "鹽 少許", "油 1茶匙"],
-      "steps": ["南瓜去皮切片", "蒸10-15分鐘至軟身", "加少許鹽", "淋上熱油"],
+      "ingredients": [
+        "南瓜 300g",
+        "鹽 少許",
+        "油 1茶匙"
+      ],
+      "steps": [
+        "南瓜去皮切片",
+        "蒸10-15分鐘至軟身",
+        "加少許鹽",
+        "淋上熱油"
+      ],
       "tips": "Medium GI — watch portion size"
     },
     {
@@ -724,11 +1331,27 @@
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/724291/pexels-photo-724291.jpeg?_gl=1*da9ijh*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0NzI5JGoyMiRsMCRoMA..",
       "description": "筊白筍係低GI，高纖維",
-      "ingredients": ["筊白筍 200g", "豬肉 150g", "醬油 1湯匙", "蒜 2瓣"],
-      "steps": ["筊白筍切絲", "豬肉切絲，用少許醬油醃", "熱鑊落油，加入蒜爆香", "加入豬肉炒至變色", "加入筊白筍快炒3分鐘", "加入醬油調味"],
+      "ingredients": [
+        "筊白筍 200g",
+        "豬肉 150g",
+        "醬油 1湯匙",
+        "蒜 2瓣"
+      ],
+      "steps": [
+        "筊白筍切絲",
+        "豬肉切絲，用少許醬油醃",
+        "熱鑊落油，加入蒜爆香",
+        "加入豬肉炒至變色",
+        "加入筊白筍快炒3分鐘",
+        "加入醬油調味"
+      ],
       "tips": "Water bamboo is low GI, high fibre"
     },
     {
@@ -741,11 +1364,26 @@
       "serves": 2,
       "time": 20,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/20802562/pexels-photo-20802562.jpeg?_gl=1*s1acvq*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0NjkxJGo2MCRsMCRoMA..",
       "description": "含豐富奧米加3，用低鈉味噌",
-      "ingredients": ["鯖魚 2塊", "味噌 2湯匙", "水 1/2杯", "薑 2片"],
-      "steps": ["鯖魚洗淨備用", "混合味噌、水、代糖", "熱鑊加入魚，兩面煎至金黃", "加入味噌汁同薑", "中火煮5分鐘至汁濃"],
+      "ingredients": [
+        "鯖魚 2塊",
+        "味噌 2湯匙",
+        "水 1/2杯",
+        "薑 2片"
+      ],
+      "steps": [
+        "鯖魚洗淨備用",
+        "混合味噌、水、代糖",
+        "熱鑊加入魚，兩面煎至金黃",
+        "加入味噌汁同薑",
+        "中火煮5分鐘至汁濃"
+      ],
       "tips": "Omega-3 rich, use low-sodium miso"
     },
     {
@@ -758,11 +1396,27 @@
       "serves": 4,
       "time": 30,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/12208779/pexels-photo-12208779.jpeg?_gl=1*4t6g5r*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0OTEwJGoyOSRsMCRoMA..",
       "description": "白蘿蔔係低GI，牛腩較瘦既部位",
-      "ingredients": ["白蘿蔔 500g", "牛腩 400g", "薑 3片", "鹽 少許"],
-      "steps": ["牛腩洗淨，飛水備用", "白蘿蔔去皮切塊", "水滾加入牛腩、薑片", "中火煲20分鐘", "加入白蘿蔔再煲25分鐘", "加鹽調味"],
+      "ingredients": [
+        "白蘿蔔 500g",
+        "牛腩 400g",
+        "薑 3片",
+        "鹽 少許"
+      ],
+      "steps": [
+        "牛腩洗淨，飛水備用",
+        "白蘿蔔去皮切塊",
+        "水滾加入牛腩、薑片",
+        "中火煲20分鐘",
+        "加入白蘿蔔再煲25分鐘",
+        "加鹽調味"
+      ],
       "tips": "Daikon is low GI, lean brisket"
     },
     {
@@ -775,11 +1429,27 @@
       "serves": 2,
       "time": 25,
       "difficulty": "medium",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=400&h=300&fit=crop",
       "description": "用椰菜花飯代替白飯",
-      "ingredients": ["椰菜花 1個", "牛肉 150g", "菠菜 100g", "豆芽 100g", "紅蘿蔔 1條"],
-      "steps": ["椰菜花攪碎成為飯粒狀", "牛肉用醬油醃製", "分別炒熟菠菜、豆芽、紅蘿蔔", "椰菜花飯蒸5分鐘", "擺放係碗度，加上蔬菜同牛肉"],
+      "ingredients": [
+        "椰菜花 1個",
+        "牛肉 150g",
+        "菠菜 100g",
+        "豆芽 100g",
+        "紅蘿蔔 1條"
+      ],
+      "steps": [
+        "椰菜花攪碎成為飯粒狀",
+        "牛肉用醬油醃製",
+        "分別炒熟菠菜、豆芽、紅蘿蔔",
+        "椰菜花飯蒸5分鐘",
+        "擺放係碗度，加上蔬菜同牛肉"
+      ],
       "tips": "Swap white rice for cauli-rice"
     },
     {
@@ -792,28 +1462,61 @@
       "serves": 2,
       "time": 12,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
       "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?w=400&h=300&fit=crop",
       "description": "零碳水，高蛋白質",
-      "ingredients": ["鮮蝦 300g", "薑 3片", "蔥 2條", "鹽 少許"],
-      "steps": ["蝦洗淨，去腸", "薑片鋪係碟度", "蝦擺上面", "水滾大火蒸5-6分鐘", "撒上蔥花，淋上熱油", "加少許鹽"],
+      "ingredients": [
+        "鮮蝦 300g",
+        "薑 3片",
+        "蔥 2條",
+        "鹽 少許"
+      ],
+      "steps": [
+        "蝦洗淨，去腸",
+        "薑片鋪係碟度",
+        "蝦擺上面",
+        "水滾大火蒸5-6分鐘",
+        "撒上蔥花，淋上熱油",
+        "加少許鹽"
+      ],
       "tips": "Zero carb, high protein"
     },
     {
       "id": "48",
       "slug": "pad-kra-pao",
-      "title": "ผัดกระเพรา",
+      "title": "嘎拋炒豬肉",
       "titleEn": "Pad Krapao",
       "cuisine": "thai",
       "budget": 40,
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/34714656/pexels-photo-34714656.jpeg?_gl=1*1l9xt4j*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0NTExJGoyOCRsMCRoMA..",
       "description": "配搭蛋食，唔好落白飯",
-      "ingredients": ["豬肉/雞肉 200g", "九層塔 50g", "蒜 3瓣", "辣椒 2條", "魚露 1湯匙"],
-      "steps": ["肉切碎", "熱鑊落油，加入蒜爆香", "加入肉碎炒至變色", "加入九層塔同辣椒", "加入魚露", "煎一隻蛋放係面"],
+      "ingredients": [
+        "豬肉/雞肉 200g",
+        "九層塔 50g",
+        "蒜 3瓣",
+        "辣椒 2條",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "肉切碎",
+        "熱鑊落油，加入蒜爆香",
+        "加入肉碎炒至變色",
+        "加入九層塔同辣椒",
+        "加入魚露",
+        "煎一隻蛋放係面"
+      ],
       "tips": "Serve over egg, skip white rice"
     },
     {
@@ -826,11 +1529,25 @@
       "serves": 2,
       "time": 10,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1603093059746-6ba9a3b962b7?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "description": "快速，非常低GI",
-      "ingredients": ["大白菜 300g", "蒜 2瓣", "魚露 1湯匙"],
-      "steps": ["大白菜切段", "蒜切片", "熱鑊落油，加入蒜爆香", "加入大白菜快炒3分鐘", "加入魚露調味"],
+      "ingredients": [
+        "大白菜 300g",
+        "蒜 2瓣",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "大白菜切段",
+        "蒜切片",
+        "熱鑊落油，加入蒜爆香",
+        "加入大白菜快炒3分鐘",
+        "加入魚露調味"
+      ],
       "tips": "Quick, very low GI"
     },
     {
@@ -843,11 +1560,23 @@
       "serves": 2,
       "time": 15,
       "difficulty": "easy",
-      "dietary": ["diabetic-friendly", "low-carb", "gluten-free"],
-      "image": "https://images.unsplash.com/photo-1482049016688-2d3e1bd0fd80?w=400&h=300&fit=crop",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.pexels.com/photos/35833815/pexels-photo-35833815.jpeg?_gl=1*128c2gw*_ga*MTY2OTI5NDQ1OS4xNzY5NTkyNjEy*_ga_8JE65Q40S6*czE3NzY4MjI2NjIkbzEyJGcxJHQxNzc2ODI0MzQ5JGoyNCRsMCRoMA..",
       "description": "無糖豆漿加蛋，低碳水",
-      "ingredients": ["蛋 3隻", "無糖豆漿 1杯", "鹽 少許"],
-      "steps": ["蛋打散，加入豆漿同鹽", "倒入蒸碗", "大火蒸8-10分鐘"],
+      "ingredients": [
+        "蛋 3隻",
+        "無糖豆漿 1杯",
+        "鹽 少許"
+      ],
+      "steps": [
+        "蛋打散，加入豆漿同鹽",
+        "倒入蒸碗",
+        "大火蒸8-10分鐘"
+      ],
       "tips": "Unsweetened soy milk + eggs = low carb"
     }
   ]
