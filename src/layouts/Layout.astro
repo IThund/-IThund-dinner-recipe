@@ -35,4 +35,31 @@ const { title } = Astro.props;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+
+  .dice-highlight {
+    animation: dicePulse 2.5s ease-out forwards;
+  }
+
+  @keyframes dicePulse {
+    0% {
+      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0.6);
+      transform: scale(1.02);
+    }
+    15% {
+      box-shadow: 0 0 0 12px rgba(196, 120, 92, 0);
+      transform: scale(1.04);
+    }
+    40% {
+      box-shadow: 0 0 0 8px rgba(196, 120, 92, 0.3);
+      transform: scale(1.02);
+    }
+    70% {
+      box-shadow: 0 0 0 4px rgba(196, 120, 92, 0.15);
+      transform: scale(1.01);
+    }
+    100% {
+      box-shadow: 0 0 0 0 rgba(196, 120, 92, 0);
+      transform: scale(1);
+    }
+  }
 </style>
