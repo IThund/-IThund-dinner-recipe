@@ -1,8 +1,8 @@
 /* empty css                                 */
-import { d as createComponent, e as renderTemplate, f as defineScriptVars, r as renderComponent, m as maybeRenderHead, g as addAttribute } from '../chunks/astro/server_ncvnUENx.mjs';
+import { d as createComponent, e as renderTemplate, g as defineScriptVars, r as renderComponent, m as maybeRenderHead, f as addAttribute } from '../chunks/astro/server_CNZlFYp3.mjs';
 import 'kleur/colors';
 import 'html-escaper';
-import { s as servingOptions, t as timeOptions, d as dietaryOptions, c as cuisines, $ as $$Layout, r as recipesData, a as $$Image, g as getCuisineName, b as getTimeLabel } from '../chunks/recipes_BdHlcyN1.mjs';
+import { s as servingOptions, t as timeOptions, d as dietaryOptions, c as cuisines, $ as $$Layout, r as recipesData, a as $$Image, g as getCuisineName, b as getTimeLabel } from '../chunks/recipes_DJxxecEF.mjs';
 import '@astrojs/internal-helpers/path';
 export { renderers } from '../renderers.mjs';
 

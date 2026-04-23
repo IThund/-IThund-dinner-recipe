@@ -1,10 +1,10 @@
-import { c as createAstro, d as createComponent, g as addAttribute, h as renderHead, i as renderSlot, e as renderTemplate, A as AstroError, N as NoImageMetadata, F as FailedToFetchRemoteImageDimensions, j as ExpectedImageOptions, E as ExpectedImage, k as ExpectedNotESMImage, l as InvalidImageService, n as ImageMissingAlt, m as maybeRenderHead, s as spreadAttributes } from './astro/server_ncvnUENx.mjs';
+import { c as createAstro, d as createComponent, f as addAttribute, h as renderHead, i as renderSlot, e as renderTemplate, A as AstroError, N as NoImageMetadata, F as FailedToFetchRemoteImageDimensions, j as ExpectedImageOptions, E as ExpectedImage, k as ExpectedNotESMImage, l as InvalidImageService, n as ImageMissingAlt, m as maybeRenderHead, s as spreadAttributes } from './astro/server_CNZlFYp3.mjs';
 import 'kleur/colors';
 import 'html-escaper';
 import 'clsx';
 /* empty css                         */
 import '@astrojs/internal-helpers/path';
-import { r as resolveSrc, i as isRemoteImage, a as isCoreRemotePath, b as isESMImportedImage, c as isLocalService, D as DEFAULT_HASH_PROPS } from './astro/assets-service_QzNt8j8a.mjs';
+import { r as resolveSrc, i as isRemoteImage, a as isCoreRemotePath, b as isESMImportedImage, c as isLocalService, D as DEFAULT_HASH_PROPS } from './astro/assets-service_DOW7mE2Y.mjs';
 import * as mime from 'mrmime';
 
 const $$Astro$2 = createAstro("https://ithund.github.io");
@@ -853,7 +853,7 @@ async function getConfiguredImageService() {
   if (!globalThis?.astroAsset?.imageService) {
     const { default: service } = await import(
       // @ts-expect-error
-      './astro/assets-service_QzNt8j8a.mjs'
+      './astro/assets-service_DOW7mE2Y.mjs'
     ).then(n => n.s).catch((e) => {
       const error = new AstroError(InvalidImageService);
       error.cause = e;
@@ -1181,6 +1181,35 @@ const recipes = [
 			"川燙去除大部分草酸，大幅降低結石風險",
 			"維他命C促進非血紅素鐵吸收",
 			"低碳水有助血糖控制"
+		],
+		cookingSecrets: [
+			"P💡 關鍵烹飪秘訣（防結石）",
+			"一定要川燙： 菠菜含有較高草酸，豆腐含有鈣。草酸與鈣結合會形成草酸鈣（結石），但透過川燙可以去除大部分草酸。",
+			"煮湯勿喝湯： 雖然一起吃不會直接導致結石，但為了減少草酸攝入，建議料理時先燙過，並盡量避免飲用長時間燉煮的菜湯。"
+		],
+		variations: [
+			{
+				name: "清爽涼拌 (Shiraae)",
+				instructions: "菠菜川燙切段，與瀝乾的板豆腐碎拌勻，加入醬油、麻油、芝麻調味。",
+				nutritionHighlights: [
+					"🌟 營養亮點",
+					"菠菜： 富含鐵質、葉酸與纖維。助血紅素生成、支持代謝。",
+					"豆腐： 優質植物蛋白質、鈣質。肌肉維修、骨骼健康。",
+					"芝麻： 健康脂肪、鈣質、鎂。提升營養吸收、助神經功能。",
+					"結合： 成為高纖、高蛋白、高鈣的素食友善料理。防止結石、全面營養。"
+				]
+			},
+			{
+				name: "滑嫩濃郁 (燉菜/燴菜)",
+				instructions: "鍋內煎嫩豆腐，加入醬油調味燉煮，最後加入燙過的菠菜快速攪拌均勻。",
+				nutritionHighlights: [
+					"🌟 營養亮點",
+					"豆腐： 優質植物蛋白質、鈣質、異黃酮。支持肌肉生長、骨骼強健。",
+					"菠菜： 鐵質、維他命K、葉酸。促進凝血、造血功能。",
+					"醬油： 鹽分適度、提供風味。增加進食享受、降低厭食。",
+					"結合： 絲滑口感、濃厚風味、完整營養。舒適進食體驗、全面養分。"
+				]
+			}
 		]
 	},
 	{
