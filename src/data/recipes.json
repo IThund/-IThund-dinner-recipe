@@ -30,7 +30,14 @@
         "水滾後大火蒸8-10分鐘",
         "撒上蔥花，淋上熱油"
       ],
-      "tips": "Low GI protein, skip soy sauce or use low-sodium"
+      "tips": "Low GI protein, skip soy sauce or use low-sodium",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質、硒",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "維他命C、纖維、抗氧化",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "2",
@@ -62,7 +69,14 @@
         "加入番茄炒至軟身",
         "加少許鹽調味即可"
       ],
-      "tips": "Use minimal oil; tomatoes are low GI"
+      "tips": "Use minimal oil; tomatoes are low GI",
+      "nutritionHighlights": [
+        "茄紅素、維他命C、鉀，抗氧化",
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "健康脂肪，提供能量",
+        "茄紅素＋維他命D，吸收率提升",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "3",
@@ -94,7 +108,43 @@
         "加入菠菜煮至軟身",
         "加鹽調味"
       ],
-      "tips": "High protein, very low carb"
+      "tips": "High protein, very low carb",
+      "nutritionHighlights": [
+        "富含鐵質、維他命A/C/K、葉綠素、β-胡蘿蔔素及纖維",
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "川燙去除大部分草酸，大幅降低結石風險",
+        "維他命C促進非血紅素鐵吸收",
+        "低碳水有助血糖控制"
+      ],
+      "cookingSecrets": [
+        "P💡 關鍵烹飪秘訣（防結石）",
+        "一定要川燙： 菠菜含有較高草酸，豆腐含有鈣。草酸與鈣結合會形成草酸鈣（結石），但透過川燙可以去除大部分草酸。",
+        "煮湯勿喝湯： 雖然一起吃不會直接導致結石，但為了減少草酸攝入，建議料理時先燙過，並盡量避免飲用長時間燉煮的菜湯。"
+      ],
+      "variations": [
+        {
+          "name": "清爽涼拌 (Shiraae)",
+          "instructions": "菠菜川燙切段，與瀝乾的板豆腐碎拌勻，加入醬油、麻油、芝麻調味。",
+          "nutritionHighlights": [
+            "🌟 營養亮點",
+            "菠菜： 富含鐵質、葉酸與纖維。助血紅素生成、支持代謝。",
+            "豆腐： 優質植物蛋白質、鈣質。肌肉維修、骨骼健康。",
+            "芝麻： 健康脂肪、鈣質、鎂。提升營養吸收、助神經功能。",
+            "結合： 成為高纖、高蛋白、高鈣的素食友善料理。防止結石、全面營養。"
+          ]
+        },
+        {
+          "name": "滑嫩濃郁 (燉菜/燴菜)",
+          "instructions": "鍋內煎嫩豆腐，加入醬油調味燉煮，最後加入燙過的菠菜快速攪拌均勻。",
+          "nutritionHighlights": [
+            "🌟 營養亮點",
+            "豆腐： 優質植物蛋白質、鈣質、異黃酮。支持肌肉生長、骨骼強健。",
+            "菠菜： 鐵質、維他命K、葉酸。促進凝血、造血功能。",
+            "醬油： 鹽分適度、提供風味。增加進食享受、降低厭食。",
+            "結合： 絲滑口感、濃厚風味、完整營養。舒適進食體驗、全面養分。"
+          ]
+        }
+      ]
     },
     {
       "id": "4",
@@ -125,7 +175,14 @@
         "倒走多餘水分",
         "加入蒜蓉、醋、麻油撈勻"
       ],
-      "tips": "No cook, low GI, refreshing side"
+      "tips": "No cook, low GI, refreshing side",
+      "nutritionHighlights": [
+        "維他命K、鉀、水分，高纖低卡",
+        "大蒜素、免疫支持、心血管健康",
+        "助消化、穩定血糖、促進鐵吸收",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "5",
@@ -157,7 +214,14 @@
         "加入豆苗快炒2-3分鐘",
         "加少許鹽調味即成"
       ],
-      "tips": "High fibre, swap oyster sauce for low-sodium"
+      "tips": "High fibre, swap oyster sauce for low-sodium",
+      "nutritionHighlights": [
+        "維他命C、纖維、蛋白質，嫩葉蔬菜",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "6",
@@ -190,7 +254,14 @@
         "加入冬瓜再煲15分鐘",
         "加鹽調味"
       ],
-      "tips": "Winter melon is very low GI"
+      "tips": "Winter melon is very low GI",
+      "nutritionHighlights": [
+        "低熱量、鉀、利尿，清熱解暑",
+        "蛋白質、膠原蛋白、鐵、鈣",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "低熱量高纖，鉀利尿消腫",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "7",
@@ -221,7 +292,14 @@
         "表面凝固即可",
         "撒上蔥花"
       ],
-      "tips": "Low carb, gentle on blood sugar"
+      "tips": "Low carb, gentle on blood sugar",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命C、纖維、抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
     },
     {
       "id": "8",
@@ -253,7 +331,14 @@
         "加入芥蘭快炒3分鐘",
         "加少許鹽調味"
       ],
-      "tips": "High fibre, use garlic not sugar"
+      "tips": "High fibre, use garlic not sugar",
+      "nutritionHighlights": [
+        "維他命K/A/C、鈣、纖維",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "9",
@@ -283,7 +368,14 @@
         "熄火，加入味噌撈勻(切勿滾起)",
         "撒上蔥花即可"
       ],
-      "tips": "Choose low-sodium miso, protein-rich"
+      "tips": "Choose low-sodium miso, protein-rich",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "益生菌、礦物質、酶，助消化",
+        "維他命C、纖維、抗氧化",
+        "蔥含維他命C，促進鐵吸收",
+        "益生菌＋植物蛋白，腸道友好"
+      ]
     },
     {
       "id": "10",
@@ -315,7 +407,14 @@
         "反轉再煎6分鐘",
         "切件上碟"
       ],
-      "tips": "No marinade sugar; skin-on is fine"
+      "tips": "No marinade sugar; skin-on is fine",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒，低脂肪部位",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "11",
@@ -346,7 +445,14 @@
         "混合出汁同醬油",
         "淋上菠菜即可"
       ],
-      "tips": "Blanched spinach with dashi, very low carb"
+      "tips": "Blanched spinach with dashi, very low carb",
+      "nutritionHighlights": [
+        "富含鐵質、維他命A/C/K、葉綠素、β-胡蘿蔔素及纖維",
+        "昆布＋魚乾，碘、鮮味氨基酸",
+        "氨基酸、鐵，少鈉更佳",
+        "維他命C促進非血紅素鐵吸收",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "12",
@@ -378,7 +484,14 @@
         "加入蒟蒻麵快炒2分鐘",
         "加入醬油調味"
       ],
-      "tips": "Near-zero carb noodle substitute"
+      "tips": "Near-zero carb noodle substitute",
+      "nutritionHighlights": [
+        "零卡路里、高纖維，飽腹感强",
+        "多元維他命、纖維，抗氧化",
+        "氨基酸、鐵，少鈉更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "蒜有助提升免疫力"
+      ]
     },
     {
       "id": "13",
@@ -410,7 +523,14 @@
         "混合醋、醬油、代糖",
         "淋上青瓜即可"
       ],
-      "tips": "Low GI, limit sugar in dressing"
+      "tips": "Low GI, limit sugar in dressing",
+      "nutritionHighlights": [
+        "維他命K、鉀、水分，高纖低卡",
+        "助消化、穩定血糖、促進鐵吸收",
+        "氨基酸、鐵，少鈉更佳",
+        "不影響血糖，適合糖尿病患者",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "14",
@@ -442,7 +562,14 @@
         "反轉再煎2分鐘",
         "擠少許檸檬汁即可"
       ],
-      "tips": "Rich in omega-3, zero carbs"
+      "tips": "Rich in omega-3, zero carbs",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質、硒，保護心血管",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "15",
@@ -473,7 +600,14 @@
         "混合醬油同味醂",
         "淋上豆腐"
       ],
-      "tips": "High protein, firm tofu keeps shape"
+      "tips": "High protein, firm tofu keeps shape",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "氨基酸、鐵，少鈉更佳",
+        "氨基酸、甜味，少糖",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "16",
@@ -504,7 +638,14 @@
         "淋上豆腐",
         "撒上芝麻"
       ],
-      "tips": "No-cook, low carb, filling protein"
+      "tips": "No-cook, low carb, filling protein",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "氨基酸、鐵，少鈉更佳",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "鈣、鐵、健康脂肪、芝麻素",
+        "芝麻油脂有助脂溶性維他命吸收"
+      ]
     },
     {
       "id": "17",
@@ -536,7 +677,14 @@
         "加入蒜蓉、醬油、芝麻油撈勻",
         "撒上芝麻"
       ],
-      "tips": "Seasoned spinach, minimal oil"
+      "tips": "Seasoned spinach, minimal oil",
+      "nutritionHighlights": [
+        "富含鐵質、維他命A/C/K、葉綠素、β-胡蘿蔔素及纖維",
+        "大蒜素、免疫支持、心血管健康",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "氨基酸、鐵，少鈉更佳",
+        "維他命C促進非血紅素鐵吸收"
+      ]
     },
     {
       "id": "18",
@@ -567,7 +715,14 @@
         "用筷子輕輕搞動",
         "熄火，撒上蔥花同麻油"
       ],
-      "tips": "Light broth, high protein, low GI"
+      "tips": "Light broth, high protein, low GI",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命C、纖維、抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
     },
     {
       "id": "19",
@@ -599,7 +754,14 @@
         "加入辣椒粉同醬油",
         "加入少許水，燜5分鐘"
       ],
-      "tips": "Use gochugaru not gochujang to reduce sugar"
+      "tips": "Use gochugaru not gochujang to reduce sugar",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "維他命C、辣椒素、促進新陳代謝",
+        "氨基酸、鐵，少鈉更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "蒜有助提升免疫力，蛋白質互補"
+      ]
     },
     {
       "id": "20",
@@ -630,7 +792,14 @@
         "撒上芝麻",
         "雪凍更佳"
       ],
-      "tips": "No-cook, very low GI"
+      "tips": "No-cook, very low GI",
+      "nutritionHighlights": [
+        "維他命K、鉀、水分，高纖低卡",
+        "維他命C、辣椒素、促進新陳代謝",
+        "氨基酸、鐵，少鈉更佳",
+        "助消化、穩定血糖、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "21",
@@ -661,7 +830,14 @@
         "中火煲15分鐘",
         "加入蒜蓉"
       ],
-      "tips": "Fermented soy is low GI; skip rice cake"
+      "tips": "Fermented soy is low GI; skip rice cake",
+      "nutritionHighlights": [
+        "益生菌、蛋白質、礦物質",
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "多元維他命、纖維，抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "22",
@@ -693,7 +869,14 @@
         "加鹽調味",
         "撒上蔥花"
       ],
-      "tips": "High fibre, very low carb"
+      "tips": "High fibre, very low carb",
+      "nutritionHighlights": [
+        "維他命C、纖維、蛋白質",
+        "大蒜素、免疫支持、心血管健康",
+        "蒜助提升免疫力，豆芽高纖",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "23",
@@ -724,7 +907,14 @@
         "加入蔬菜快炒3分鐘",
         "加入魚露調味"
       ],
-      "tips": "Use fish sauce not sweet soy"
+      "tips": "Use fish sauce not sweet soy",
+      "nutritionHighlights": [
+        "多元維他命、纖維，抗氧化",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "蒜有助提升免疫力"
+      ]
     },
     {
       "id": "24",
@@ -755,7 +945,14 @@
         "加入魚露調味",
         "撒上蔥花"
       ],
-      "tips": "Light broth, no noodles = low GI"
+      "tips": "Light broth, no noodles = low GI",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "多元維他命、纖維，抗氧化",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "25",
@@ -786,7 +983,14 @@
         "混合魚露同檸檬汁",
         "撈勻所有材料"
       ],
-      "tips": "High protein legume, fresh herbs"
+      "tips": "High protein legume, fresh herbs",
+      "nutritionHighlights": [
+        "纖維、蛋白質、維他命K",
+        "茄紅素、維他命C、鉀，抗氧化",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "維他命C、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "26",
@@ -817,7 +1021,14 @@
         "加入魚肉煎至金黃",
         "加入魚露調味"
       ],
-      "tips": "Lean protein, fresh ginger improves insulin sensitivity"
+      "tips": "Lean protein, fresh ginger improves insulin sensitivity",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質、硒",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "薑蒜有助去腥、抗炎、提升免疫"
+      ]
     },
     {
       "id": "27",
@@ -846,7 +1057,14 @@
         "倒入蒸碗",
         "大火蒸8-10分鐘"
       ],
-      "tips": "Similar to chawanmushi, low carb"
+      "tips": "Similar to chawanmushi, low carb",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
     },
     {
       "id": "28",
@@ -877,7 +1095,14 @@
         "煮5分鐘",
         "加入魚露調味"
       ],
-      "tips": "No coconut milk = very low fat & GI"
+      "tips": "No coconut milk = very low fat & GI",
+      "nutritionHighlights": [
+        "多元維他命、纖維，抗氧化",
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "29",
@@ -909,7 +1134,14 @@
         "混合魚露同檸檬汁",
         "撈勻所有材料"
       ],
-      "tips": "Low GI, high fibre mushrooms"
+      "tips": "Low GI, high fibre mushrooms",
+      "nutritionHighlights": [
+        "維他命D、硒、免疫支持",
+        "茄紅素、維他命C、鉀，抗氧化",
+        "槲皮素、抗氧化、維他命C",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "30",
@@ -941,7 +1173,14 @@
         "加入魚露",
         "撒上香菜"
       ],
-      "tips": "Tamarind broth, skip added sugar"
+      "tips": "Tamarind broth, skip added sugar",
+      "nutritionHighlights": [
+        "多元維他命、纖維，抗氧化",
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "纖維、抗氧化、助消化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "31",
@@ -973,7 +1212,14 @@
         "加入少許水燜2分鐘",
         "加入魚露調味"
       ],
-      "tips": "Tomato is low GI, light sauce"
+      "tips": "Tomato is low GI, light sauce",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "茄紅素、維他命C、鉀，抗氧化",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "茄紅素＋大蒜素，抗氧化加强"
+      ]
     },
     {
       "id": "32",
@@ -1005,7 +1251,14 @@
         "撈勻所有材料",
         "雪凍更佳"
       ],
-      "tips": "No-cook, high fibre, lime dressing"
+      "tips": "No-cook, high fibre, lime dressing",
+      "nutritionHighlights": [
+        "維他命C/K、纖維、蘿蔔硫素",
+        "β-胡蘿蔔素、維他命A、纖維",
+        "維他命C、促進鐵吸收、清爽開胃",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "33",
@@ -1036,7 +1289,14 @@
         "倒入蒸碗",
         "大火蒸8-10分鐘"
       ],
-      "tips": "Low carb, fragrant with dill"
+      "tips": "Low carb, fragrant with dill",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命A/C、鐵、錳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
     },
     {
       "id": "34",
@@ -1067,7 +1327,14 @@
         "加入通菜煮3分鐘",
         "加入魚露調味"
       ],
-      "tips": "Leafy green, very low GI"
+      "tips": "Leafy green, very low GI",
+      "nutritionHighlights": [
+        "維他命A/C、纖維、清熱利尿",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "35",
@@ -1100,7 +1367,14 @@
         "加入芹菜快炒2分鐘",
         "加入魚露調味"
       ],
-      "tips": "Lean beef, high fibre celery"
+      "tips": "Lean beef, high fibre celery",
+      "nutritionHighlights": [
+        "血紅素鐵、維他命B12、鋅、蛋白質",
+        "維他命K、鉀、抗氧化，助降血壓",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "36",
@@ -1131,7 +1405,14 @@
         "撈勻所有材料",
         "撒上香菜"
       ],
-      "tips": "Moderate GI; use vinegar dressing"
+      "tips": "Moderate GI; use vinegar dressing",
+      "nutritionHighlights": [
+        "鐵、纖維、維他命C，活血養顔",
+        "β-胡蘿蔔素、維他命A、纖維",
+        "助消化、穩定血糖、促進鐵吸收",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "鐵質豐富，纖維助腸道健康"
+      ]
     },
     {
       "id": "37",
@@ -1164,7 +1445,14 @@
         "加入醬油同少許水",
         "加入九層塔，快手炒勻"
       ],
-      "tips": "Halve sesame oil & skip sugar"
+      "tips": "Halve sesame oil & skip sugar",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "氨基酸、鐵，少鈉更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命K、抗氧化、芳香"
+      ]
     },
     {
       "id": "38",
@@ -1197,7 +1485,14 @@
         "加入蛤蠣至開口",
         "加鹽調味"
       ],
-      "tips": "High protein, very low carb"
+      "tips": "High protein, very low carb",
+      "nutritionHighlights": [
+        "鐵、維他命B12、鋅，礦物質丰富",
+        "維他命B/C、纖維、水分",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "鐵、B12、鋅，造血礦物質三合一",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "39",
@@ -1228,7 +1523,14 @@
         "加入蛋，中火煮10分鐘",
         "熄火，焗30分鐘"
       ],
-      "tips": "Use low-sodium soy, good protein snack"
+      "tips": "Use low-sodium soy, good protein snack",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "氨基酸、鐵，少鈉更佳",
+        "草莽酸、抗氧化、香氣芬芳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "40",
@@ -1259,7 +1561,14 @@
         "放係豆腐面",
         "淋上醬油同麻油"
       ],
-      "tips": "No-cook, rich protein"
+      "tips": "No-cook, rich protein",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "蛋白質、鐵、維他命B12",
+        "氨基酸、鐵，少鈉更佳",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "鐵質較一般蛋高，蛋白質豐富"
+      ]
     },
     {
       "id": "41",
@@ -1291,7 +1600,14 @@
         "加入青江菜快炒2分鐘",
         "加鹽調味"
       ],
-      "tips": "Very low GI, high in folate"
+      "tips": "Very low GI, high in folate",
+      "nutritionHighlights": [
+        "維他命A/C/K、鈣、纖維",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "42",
@@ -1319,7 +1635,13 @@
         "加少許鹽",
         "淋上熱油"
       ],
-      "tips": "Medium GI — watch portion size"
+      "tips": "Medium GI — watch portion size",
+      "nutritionHighlights": [
+        "β-胡蘿蔔素、維他命A、鉀、纖維",
+        "健康脂肪，提供能量",
+        "β-胡蘿蔔素護眼，維他命C增強免疫",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "43",
@@ -1352,7 +1674,14 @@
         "加入筊白筍快炒3分鐘",
         "加入醬油調味"
       ],
-      "tips": "Water bamboo is low GI, high fibre"
+      "tips": "Water bamboo is low GI, high fibre",
+      "nutritionHighlights": [
+        "纖維、鉀、低熱量",
+        "蛋白質、維他命B1、鋅",
+        "氨基酸、鐵，少鈉更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "44",
@@ -1384,7 +1713,14 @@
         "加入味噌汁同薑",
         "中火煮5分鐘至汁濃"
       ],
-      "tips": "Omega-3 rich, use low-sodium miso"
+      "tips": "Omega-3 rich, use low-sodium miso",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質，預防心血管疾病",
+        "益生菌、礦物質、酶，助消化",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "Omega-3 EPA/DHA，心腦血管守護",
+        "低碳水有助血糖控制"
+      ]
     },
     {
       "id": "45",
@@ -1417,7 +1753,14 @@
         "加入白蘿蔔再煲25分鐘",
         "加鹽調味"
       ],
-      "tips": "Daikon is low GI, lean brisket"
+      "tips": "Daikon is low GI, lean brisket",
+      "nutritionHighlights": [
+        "維他命C、纖維、澱粉酶，助消化",
+        "蛋白質、鐵、維他命B12，含膠原蛋白",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "46",
@@ -1450,7 +1793,14 @@
         "椰菜花飯蒸5分鐘",
         "擺放係碗度，加上蔬菜同牛肉"
       ],
-      "tips": "Swap white rice for cauli-rice"
+      "tips": "Swap white rice for cauli-rice",
+      "nutritionHighlights": [
+        "低醣、維他命C、纖維",
+        "血紅素鐵、維他命B12、鋅、蛋白質",
+        "富含鐵質、維他命A/C/K、葉綠素、β-胡蘿蔔素及纖維",
+        "維他命C、纖維、蛋白質",
+        "β-胡蘿蔔素、維他命A、纖維"
+      ]
     },
     {
       "id": "47",
@@ -1483,7 +1833,14 @@
         "撒上蔥花，淋上熱油",
         "加少許鹽"
       ],
-      "tips": "Zero carb, high protein"
+      "tips": "Zero carb, high protein",
+      "nutritionHighlights": [
+        "硒、碘、低脂肪、高蛋白",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "維他命C、纖維、抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "48",
@@ -1517,7 +1874,14 @@
         "加入魚露",
         "煎一隻蛋放係面"
       ],
-      "tips": "Serve over egg, skip white rice"
+      "tips": "Serve over egg, skip white rice",
+      "nutritionHighlights": [
+        "蛋白質、維他命B1、鋅",
+        "維他命K、抗氧化、芳香",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命C、辣椒素、促進新陳代謝",
+        "蛋白質、碘、礦物質，少鹽更佳"
+      ]
     },
     {
       "id": "49",
@@ -1548,7 +1912,14 @@
         "加入大白菜快炒3分鐘",
         "加入魚露調味"
       ],
-      "tips": "Quick, very low GI"
+      "tips": "Quick, very low GI",
+      "nutritionHighlights": [
+        "維他命C、纖維、水分",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
     },
     {
       "id": "50",
@@ -1577,7 +1948,1919 @@
         "倒入蒸碗",
         "大火蒸8-10分鐘"
       ],
-      "tips": "Unsweetened soy milk + eggs = low carb"
+      "tips": "Unsweetened soy milk + eggs = low carb",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "植物蛋白、鈣、異黃酮，無糖配方",
+        "蛋白質互補，膽鹼豐富",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "51",
+      "slug": "garlic-butter-prawns",
+      "title": "蒜香牛油蝦",
+      "titleEn": "Garlic Butter Prawns",
+      "cuisine": "western",
+      "budget": 90,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1625943553852-781c6dd46faa?w=800&auto=format&fit=crop&q=80",
+      "description": "快手蒜香，蝦肉鮮嫩",
+      "ingredients": [
+        "蝦 300g",
+        "蒜蓉 3茶匙",
+        "牛油 1湯匙",
+        "黑胡椒 1茶匙"
+      ],
+      "steps": [
+        "蝦洗淨",
+        "牛油熱鑊爆蒜",
+        "加蝦炒至變紅",
+        "加黑胡椒即可"
+      ],
+      "tips": "時間緊不要煮太長",
+      "nutritionHighlights": [
+        "硒、碘、低脂肪、高蛋白",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命A/D、能量，少量為佳",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "52",
+      "slug": "pan-seared-salmon",
+      "title": "煎三文魚",
+      "titleEn": "Pan-seared Salmon",
+      "cuisine": "western",
+      "budget": 85,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&auto=format&fit=crop&q=60",
+      "description": "Omega-3豐富，快手必備",
+      "ingredients": [
+        "三文魚 300g",
+        "鹽 少許",
+        "油 1湯匙",
+        "檸檬 1/2個"
+      ],
+      "steps": [
+        "三文魚擦乾",
+        "熱鑊下油",
+        "皮面下煎4分鐘",
+        "翻面煎2分鐘",
+        "擠檸檬汁"
+      ],
+      "tips": "不要煮太久保持多汁",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質、硒，保護心血管",
+        "健康脂肪，提供能量",
+        "維他命C、促進鐵吸收、心血管健康",
+        "檸檬去腥，維他命C促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "53",
+      "slug": "garlic-broccoli",
+      "title": "蒜香西蘭花",
+      "titleEn": "Garlic Broccoli",
+      "cuisine": "western",
+      "budget": 20,
+      "serves": 2,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&auto=format&fit=crop&q=60",
+      "description": "最簡單最健康",
+      "ingredients": [
+        "西蘭花 300g",
+        "蒜 3瓣",
+        "油 1湯匙",
+        "鹽 少許"
+      ],
+      "steps": [
+        "西蘭花切小朵",
+        "蒜片",
+        "熱鑊炒蒜",
+        "加西蘭花快炒",
+        "加鹽即可"
+      ],
+      "tips": "保持西蘭花爽身口感",
+      "nutritionHighlights": [
+        "維他命C/K、纖維、抗氧化",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "蘿蔔硫素抗癌，維他命C高",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "54",
+      "slug": "indian-dal",
+      "title": "印度扁豆咖喱",
+      "titleEn": "Indian Dal Curry",
+      "cuisine": "indian",
+      "budget": 25,
+      "serves": 2,
+      "time": 25,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "高蛋白質，香料豐富",
+      "ingredients": [
+        "紅扁豆 150g",
+        "洋蔥 1個",
+        "蒜 2瓣",
+        "薑 1段",
+        "咖喱粉 1湯匙"
+      ],
+      "steps": [
+        "洋蔥蒜薑炒香",
+        "加咖喱粉炒香",
+        "加扁豆及水煮",
+        "加鹽調味"
+      ],
+      "tips": "提前浸扁豆會更快",
+      "nutritionHighlights": [
+        "槲皮素、抗氧化、維他命C",
+        "大蒜素、免疫支持、心血管健康",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "薑黃素、抗氧化、抗炎",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "55",
+      "slug": "tandoori-chicken",
+      "title": "印度烤雞",
+      "titleEn": "Tandoori Chicken",
+      "cuisine": "indian",
+      "budget": 50,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "香料烤雞，香氣撲鼻",
+      "ingredients": [
+        "雞腿 2隻",
+        "乳酪 100ml",
+        "薑蓉 1湯匙",
+        "香料粉 1茶匙"
+      ],
+      "steps": [
+        "混合乳酪香料",
+        "雞腿醃30分鐘",
+        "烤箱200°C烤15分鐘"
+      ],
+      "tips": "提前醃會更入味",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒，低脂肪部位",
+        "益生菌、蛋白質、鈣，助腸道健康",
+        "薑辣素、抗氧化、助消化",
+        "抗氧化、抗炎、促進消化",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "56",
+      "slug": "paneer-stir-fry",
+      "title": "印度起司炒菜",
+      "titleEn": "Paneer Stir-fry",
+      "cuisine": "indian",
+      "budget": 40,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "素食高蛋白質",
+      "ingredients": [
+        "印度起司 200g",
+        "蔬菜 200g",
+        "洋蔥 1個",
+        "香料粉 1茶匙"
+      ],
+      "steps": [
+        "起司切塊",
+        "熱鑊炒蔬菜",
+        "加起司炒香",
+        "加香料即可"
+      ],
+      "tips": "快炒保持起司形狀",
+      "nutritionHighlights": [
+        "蛋白質、鈣、維他命B12",
+        "多元維他命、纖維，抗氧化",
+        "槲皮素、抗氧化、維他命C",
+        "抗氧化、抗炎、促進消化",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "57",
+      "slug": "mediterranean-salad",
+      "title": "地中海沙律",
+      "titleEn": "Mediterranean Salad",
+      "cuisine": "mediterranean",
+      "budget": 35,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "新鮮健康，5分鐘完成",
+      "ingredients": [
+        "番茄 2個",
+        "黃瓜 1條",
+        "紫洋蔥 1/4個",
+        "橄欖 50g",
+        "橄欖油 2湯匙"
+      ],
+      "steps": [
+        "番茄黃瓜切塊",
+        "洋蔥切絲",
+        "混合所有材料",
+        "淋橄欖油即可"
+      ],
+      "tips": "隨時可做快手餐",
+      "nutritionHighlights": [
+        "茄紅素、維他命C、鉀，抗氧化",
+        "維他命K、鉀、水分，高纖低卡",
+        "槲皮素、抗氧化、維他命C",
+        "單元不飽和脂肪、抗氧化",
+        "單元不飽和脂肪、心臟健康"
+      ]
+    },
+    {
+      "id": "58",
+      "slug": "grilled-fish",
+      "title": "地中海烤魚",
+      "titleEn": "Grilled Fish",
+      "cuisine": "mediterranean",
+      "budget": 70,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡鮮甜，簡單快手",
+      "ingredients": [
+        "白魚 400g",
+        "檸檬 1個",
+        "橄欖油 2湯匙",
+        "蒜 2瓣"
+      ],
+      "steps": [
+        "魚洗淨",
+        "放上檸檬蒜",
+        "淋橄欖油",
+        "烤箱190°C烤12分鐘"
+      ],
+      "tips": "用錫紙包裝易清潔",
+      "nutritionHighlights": [
+        "優質蛋白質、Omega-3、維他命D，低脂肪",
+        "維他命C、促進鐵吸收、心血管健康",
+        "單元不飽和脂肪、心臟健康",
+        "大蒜素、免疫支持、心血管健康",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "59",
+      "slug": "hummus",
+      "title": "地中海鷹嘴豆醬",
+      "titleEn": "Hummus",
+      "cuisine": "mediterranean",
+      "budget": 20,
+      "serves": 4,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "健康醬料，配菜佳品",
+      "ingredients": [
+        "鷹嘴豆罐 400g",
+        "芝麻醬 2湯匙",
+        "檸檬汁 2湯匙",
+        "蒜 1瓣"
+      ],
+      "steps": [
+        "鷹嘴豆瀝乾",
+        "放攪拌機",
+        "加檸檬蒜",
+        "攪至順滑"
+      ],
+      "tips": "可存放一週",
+      "nutritionHighlights": [
+        "蛋白質、纖維、鐵、鎂，助穩定血糖",
+        "鈣、鐵、健康脂肪、芝麻素",
+        "維他命C、促進鐵吸收",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命C有助芝麻中鐵的吸收"
+      ]
+    },
+    {
+      "id": "60",
+      "slug": "french-omelette",
+      "title": "法式蛋卷",
+      "titleEn": "French Omelette",
+      "cuisine": "french",
+      "budget": 25,
+      "serves": 1,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "經典快手，5分鐘搞定",
+      "ingredients": [
+        "蛋 3隻",
+        "牛油 1茶匙",
+        "鹽及黑胡椒"
+      ],
+      "steps": [
+        "蛋打散",
+        "熱鑊下牛油",
+        "倒蛋液",
+        "半熟時折起"
+      ],
+      "tips": "火候掌握好不會老",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命A/D、能量，少量為佳",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "61",
+      "slug": "french-green-beans",
+      "title": "法式煮豆",
+      "titleEn": "French Green Beans",
+      "cuisine": "french",
+      "budget": 20,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡爽身，經典配菜",
+      "ingredients": [
+        "豆角 300g",
+        "蒜 2瓣",
+        "檸檬 1/2個",
+        "橄欖油 1湯匙"
+      ],
+      "steps": [
+        "豆角飛水",
+        "蒜下鑊炒香",
+        "加豆角炒",
+        "加檸檬汁即可"
+      ],
+      "tips": "保持豆角爽身感",
+      "nutritionHighlights": [
+        "大蒜素、免疫支持、心血管健康",
+        "維他命C、促進鐵吸收、心血管健康",
+        "單元不飽和脂肪、心臟健康",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "62",
+      "slug": "french-roast-chicken",
+      "title": "法式焗雞",
+      "titleEn": "French Roast Chicken",
+      "cuisine": "french",
+      "budget": 80,
+      "serves": 4,
+      "time": 60,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "金黃香脆，家庭菜式",
+      "ingredients": [
+        "全雞 1隻",
+        "檸檬 1個",
+        "迷迭香 2枝",
+        "鹽及黑胡椒"
+      ],
+      "steps": [
+        "雞洗淨擦乾",
+        "放檸檬迷迭香",
+        "抹橄欖油鹽胡椒",
+        "烤箱190°C烤50分鐘"
+      ],
+      "tips": "靜置10分鐘後切件",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒",
+        "維他命C、促進鐵吸收、心血管健康",
+        "抗氧化、抗炎、記憶力支持",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "63",
+      "slug": "italian-caprese",
+      "title": "意大利番茄芝士",
+      "titleEn": "Caprese Salad",
+      "cuisine": "italian",
+      "budget": 50,
+      "serves": 2,
+      "time": 5,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "最快5分鐘完成",
+      "ingredients": [
+        "番茄 2個",
+        "芝士 200g",
+        "羅勒 1束",
+        "橄欖油 2湯匙"
+      ],
+      "steps": [
+        "番茄切片",
+        "芝士切片",
+        "交替鋪排",
+        "淋橄欖油加羅勒"
+      ],
+      "tips": "新鮮食材最重要",
+      "nutritionHighlights": [
+        "茄紅素、維他命C、鉀，抗氧化",
+        "蛋白質、鈣、維他命A/B12",
+        "維他命K、抗氧化、芳香",
+        "單元不飽和脂肪、心臟健康",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "64",
+      "slug": "italian-risotto",
+      "title": "意大利松露燴飯",
+      "titleEn": "Mushroom Risotto",
+      "cuisine": "italian",
+      "budget": 60,
+      "serves": 2,
+      "time": 30,
+      "difficulty": "medium",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb"
+      ],
+      "image": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=800&auto=format&fit=crop&q=80",
+      "description": "奶香濃郁，口感如絲",
+      "ingredients": [
+        "意米 150g",
+        "蘑菇 200g",
+        "洋蔥 1/2個",
+        "白酒 100ml",
+        "高湯 500ml"
+      ],
+      "steps": [
+        "洋蔥蒜炒香",
+        "加意米炒至透明",
+        "倒白酒",
+        "逐次加高湯邊煮邊攪",
+        "加蘑菇及芝士"
+      ],
+      "tips": "常攪保持奶滑",
+      "nutritionHighlights": [
+        "碳水化合物、維他命B，提供了能量",
+        "維他命D、硒、免疫支持",
+        "槲皮素、抗氧化、維他命C",
+        "抗氧化物質，少量飲用",
+        "礦物質、膠原蛋白、鮮味"
+      ]
+    },
+    {
+      "id": "65",
+      "slug": "british-scrambled-eggs",
+      "title": "英式炒蛋",
+      "titleEn": "Scrambled Eggs",
+      "cuisine": "british",
+      "budget": 20,
+      "serves": 2,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "快手早餐，蓬鬆軟滑",
+      "ingredients": [
+        "蛋 4隻",
+        "牛油 1湯匙",
+        "奶 1湯匙",
+        "鹽及黑胡椒"
+      ],
+      "steps": [
+        "蛋打散",
+        "牛油下鑊",
+        "倒蛋液",
+        "慢速攪至軟"
+      ],
+      "tips": "慢火令蛋更軟滑",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命A/D、能量，少量為佳",
+        "鈣、蛋白質、維他命D",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "66",
+      "slug": "british-mushrooms",
+      "title": "英式炒蘑菇",
+      "titleEn": "Sautéed Mushrooms",
+      "cuisine": "british",
+      "budget": 25,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&auto=format&fit=crop&q=60",
+      "description": "健康配菜，5分鐘搞定",
+      "ingredients": [
+        "蘑菇 300g",
+        "蒜 2瓣",
+        "牛油 1湯匙",
+        "百里香 1枝"
+      ],
+      "steps": [
+        "蘑菇切件",
+        "蒜切片",
+        "牛油下鑊爆蒜",
+        "加蘑菇炒",
+        "加百里香"
+      ],
+      "tips": "高火快炒更香",
+      "nutritionHighlights": [
+        "維他命D、硒、免疫支持",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命A/D、能量，少量為佳",
+        "抗氧化、抗炎、維他命C",
+        "蒜有助提升免疫力，維他命D互補"
+      ]
+    },
+    {
+      "id": "67",
+      "slug": "british-grilled-tomato",
+      "title": "英式烤番茄",
+      "titleEn": "Grilled Tomato",
+      "cuisine": "british",
+      "budget": 15,
+      "serves": 2,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "簡單配菜，2分鐘完成",
+      "ingredients": [
+        "番茄 2個",
+        "橄欖油 1湯匙",
+        "百里香 1枝"
+      ],
+      "steps": [
+        "番茄切半",
+        "淋橄欖油",
+        "放烤箱190°C烤8分鐘"
+      ],
+      "tips": "溫暖早餐必備",
+      "nutritionHighlights": [
+        "茄紅素、維他命C、鉀，抗氧化",
+        "單元不飽和脂肪、心臟健康",
+        "抗氧化、抗炎、維他命C",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "68",
+      "slug": "thai-basil-pork",
+      "title": "泰式九層塔豬肉",
+      "titleEn": "Thai Basil Pork",
+      "cuisine": "thai",
+      "budget": 40,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1628840042765-356cda07f4db?w=400&auto=format&fit=crop&q=60",
+      "description": "辣身香氣，下飯一級",
+      "ingredients": [
+        "豬肉 250g",
+        "九層塔 50g",
+        "辣椒 1條",
+        "蒜 3瓣",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "豬肉炒至熟",
+        "加蒜辣椒",
+        "加魚露",
+        "加九層塔即可"
+      ],
+      "tips": "香草最後加保香氣",
+      "nutritionHighlights": [
+        "蛋白質、維他命B1、鋅",
+        "維他命K、抗氧化、芳香",
+        "維他命C、辣椒素、促進新陳代謝",
+        "大蒜素、免疫支持、心血管健康",
+        "蛋白質、碘、礦物質，少鹽更佳"
+      ]
+    },
+    {
+      "id": "69",
+      "slug": "thai-green-curry-fish",
+      "title": "泰式青咖喱魚",
+      "titleEn": "Thai Green Curry Fish",
+      "cuisine": "thai",
+      "budget": 60,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1585937421612-0f3c003ba2d4?w=400&auto=format&fit=crop&q=60",
+      "description": "香辣下飯，一試難忘",
+      "ingredients": [
+        "白魚 300g",
+        "青咖喱醬 2湯匙",
+        "椰奶 200ml",
+        "蔬菜 100g",
+        "魚露 1茶匙"
+      ],
+      "steps": [
+        "炒咖喱醬",
+        "加魚煮至半熟",
+        "倒椰奶蔬菜",
+        "加魚露調味"
+      ],
+      "tips": "用椰汁更香濃",
+      "nutritionHighlights": [
+        "優質蛋白質、Omega-3、維他命D，低脂肪",
+        "椰奶＋香草，抗氧化、促新陳代謝",
+        "中鏈脂肪 (MCT)、能量、奶香味",
+        "多元維他命、纖維，抗氧化",
+        "蛋白質、碘、礦物質，少鹽更佳"
+      ]
+    },
+    {
+      "id": "70",
+      "slug": "korean-egg-roll-advanced",
+      "title": "韓式蛋卷",
+      "titleEn": "Korean Egg Roll",
+      "cuisine": "korean",
+      "budget": 25,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "嫩滑多層，韓式早餐",
+      "ingredients": [
+        "蛋 4隻",
+        "油 1湯匙",
+        "鹽 少許"
+      ],
+      "steps": [
+        "蛋打散",
+        "熱鑊下油",
+        "薄薄倒一層蛋液",
+        "等半熟捲起",
+        "重複直至完成"
+      ],
+      "tips": "薄火多層令口感豐富",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
+    },
+    {
+      "id": "71",
+      "slug": "korean-kale-namul",
+      "title": "韓式羽衣甘藍",
+      "titleEn": "Korean Kale Namul",
+      "cuisine": "korean",
+      "budget": 20,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1576021182211-9ea8dced3690?w=400&auto=format&fit=crop&q=60",
+      "description": "高纖高鈣，快手菜",
+      "ingredients": [
+        "羽衣甘藍 200g",
+        "蒜蓉 1茶匙",
+        "芝麻油 1茶匙",
+        "鹽 少許"
+      ],
+      "steps": [
+        "羽衣甘藍飛水",
+        "過冷河",
+        "擠乾",
+        "加蒜蓉芝麻油鹽"
+      ],
+      "tips": "冷食更爽口",
+      "nutritionHighlights": [
+        "維他命A/C/K、鈣、抗氧化",
+        "大蒜素、免疫支持、心血管健康",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "芝麻油脂有助脂溶性維他命吸收",
+        "維他命K是菠菜1.5倍，護骨之選"
+      ]
+    },
+    {
+      "id": "72",
+      "slug": "vietnamese-rice-paper-rolls",
+      "title": "越南米紙卷",
+      "titleEn": "Rice Paper Rolls",
+      "cuisine": "vietnamese",
+      "budget": 35,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "清爽低卡，5分鐘完成",
+      "ingredients": [
+        "米紙 8張",
+        "蝦 150g",
+        "生菜 100g",
+        "紫洋蔥 50g",
+        "香草 50g"
+      ],
+      "steps": [
+        "蝦煮熟",
+        "米紙浸軟",
+        "鋪生菜蝦香草",
+        "捲起",
+        "蘸魚露醬"
+      ],
+      "tips": "米紙浸一秒即可",
+      "nutritionHighlights": [
+        "低卡、碳水，少量配搭",
+        "硒、碘、低脂肪、高蛋白",
+        "維他命K/A、纖維、水分",
+        "槲皮素、抗氧化、維他命C",
+        "抗氧化、抗炎、芳香療法"
+      ]
+    },
+    {
+      "id": "73",
+      "slug": "vietnamese-grilled-pork",
+      "title": "越南烤豬肉",
+      "titleEn": "Vietnamese Grilled Pork",
+      "cuisine": "vietnamese",
+      "budget": 50,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "香料醃豬肉，香氣撲鼻",
+      "ingredients": [
+        "豬肉 300g",
+        "蒜 3瓣",
+        "檸檬汁 2湯匙",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "豬肉切片",
+        "混合蒜檸檬魚露",
+        "醃30分鐘",
+        "烤箱200°C烤12分鐘"
+      ],
+      "tips": "提前醃會更入味",
+      "nutritionHighlights": [
+        "蛋白質、維他命B1、鋅",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命C、促進鐵吸收",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "74",
+      "slug": "chinese-stir-fry-mushroom",
+      "title": "蘑菇炒菜",
+      "titleEn": "Mushroom Stir-fry",
+      "cuisine": "chinese",
+      "budget": 30,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&auto=format&fit=crop&q=60",
+      "description": "高纖維，快手配菜",
+      "ingredients": [
+        "蘑菇 300g",
+        "蒜 2瓣",
+        "蔥 1條",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "蘑菇切件",
+        "蒜蔥切段",
+        "熱鑊炒蒜蔥",
+        "加蘑菇快炒",
+        "加鹽即可"
+      ],
+      "tips": "保持爽身口感",
+      "nutritionHighlights": [
+        "維他命D、硒、免疫支持",
+        "大蒜素、免疫支持、心血管健康",
+        "維他命C、纖維、抗氧化",
+        "健康脂肪，提供能量",
+        "蒜有助提升免疫力，維他命D互補"
+      ]
+    },
+    {
+      "id": "75",
+      "slug": "chinese-egg-soup",
+      "title": "蛋湯",
+      "titleEn": "Egg Drop Soup",
+      "cuisine": "chinese",
+      "budget": 20,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1612874742237-415c88e1d5cc?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡快手，簡單快速",
+      "ingredients": [
+        "蛋 2隻",
+        "高湯 500ml",
+        "蔥 1條",
+        "鹽 少許"
+      ],
+      "steps": [
+        "高湯煮滾",
+        "蛋打散",
+        "慢慢倒入攪動",
+        "撒蔥花即可"
+      ],
+      "tips": "即做即食最好喝",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "礦物質、膠原蛋白、鮮味",
+        "維他命C、纖維、抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "76",
+      "slug": "chinese-tofu-mushroom",
+      "title": "豆腐蘑菇",
+      "titleEn": "Tofu Mushroom Stir-fry",
+      "cuisine": "chinese",
+      "budget": 35,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "高蛋白質，快手菜",
+      "ingredients": [
+        "豆腐 1磚",
+        "蘑菇 200g",
+        "蒜 2瓣",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "豆腐切塊",
+        "蘑菇切件",
+        "蒜下鑊炒香",
+        "加豆腐蘑菇炒",
+        "加鹽調味"
+      ],
+      "tips": "輕輕炒保持豆腐形狀",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "維他命D、硒、免疫支持",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "蒜有助提升免疫力，蛋白質互補"
+      ]
+    },
+    {
+      "id": "77",
+      "slug": "hong-kong-morning-tea-egg",
+      "title": "港式茶葉蛋",
+      "titleEn": "Hong Kong Tea Egg",
+      "cuisine": "hong-kong",
+      "budget": 15,
+      "serves": 1,
+      "time": 5,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "經典點心，快手必備",
+      "ingredients": [
+        "蛋 2隻",
+        "茶葉 1茶匙",
+        "醬油 1湯匙"
+      ],
+      "steps": [
+        "蛋煮至半熟",
+        "混合茶葉醬油",
+        "蛋浸漬2小時"
+      ],
+      "tips": "可提前製做",
+      "nutritionHighlights": [
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "抗氧化、兒茶素，提神醒腦",
+        "氨基酸、鐵，少鈉更佳",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "78",
+      "slug": "hong-kong-bitter-melon",
+      "title": "苦瓜炒蛋",
+      "titleEn": "Bitter Melon Egg Stir-fry",
+      "cuisine": "hong-kong",
+      "budget": 25,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "清熱健康，港式風味",
+      "ingredients": [
+        "苦瓜 1條",
+        "蛋 3隻",
+        "蒜 2瓣",
+        "鹽 少許"
+      ],
+      "steps": [
+        "苦瓜切件飛水",
+        "蛋打散",
+        "蒜下鑊爆香",
+        "加蛋炒至半熟",
+        "加苦瓜炒勻"
+      ],
+      "tips": "飛水減苦味",
+      "nutritionHighlights": [
+        "維他命C、苦瓜苷、血糖調節",
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "大蒜素、免疫支持、心血管健康",
+        "苦瓜苷助血糖調節，維他命C抗氧化",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "79",
+      "slug": "hong-kong-bitter-greens",
+      "title": "芽菜炒蛋",
+      "titleEn": "Vegetables Egg Stir-fry",
+      "cuisine": "hong-kong",
+      "budget": 20,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡爽身，經常點菜",
+      "ingredients": [
+        "芽菜 200g",
+        "蛋 2隻",
+        "蒜 2瓣",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "芽菜洗淨",
+        "蛋打散",
+        "蒜下鑊炒香",
+        "加蛋至半熟",
+        "加芽菜炒勻"
+      ],
+      "tips": "保持蔬菜爽身感",
+      "nutritionHighlights": [
+        "維他命C、纖維、蛋白質",
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "80",
+      "slug": "japanese-teriyaki-sauce",
+      "title": "日式照燒醬",
+      "titleEn": "Teriyaki Salmon",
+      "cuisine": "japanese",
+      "budget": 75,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&auto=format&fit=crop&q=60",
+      "description": "甜鹹照燒，入口軟滑",
+      "ingredients": [
+        "三文魚 300g",
+        "醬油 2湯匙",
+        "味醂 1湯匙",
+        "糖 1茶匙"
+      ],
+      "steps": [
+        "三文魚擦乾",
+        "熱鑊下油煎至半熟",
+        "混合醬油味醂糖",
+        "倒在三文魚上煮熟"
+      ],
+      "tips": "不要煮太久",
+      "nutritionHighlights": [
+        "Omega-3、維他命D、蛋白質、硒，保護心血管",
+        "氨基酸、鐵，少鈉更佳",
+        "氨基酸、甜味，少糖",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "81",
+      "slug": "japanese-edamame",
+      "title": "日式毛豆",
+      "titleEn": "Japanese Edamame",
+      "cuisine": "japanese",
+      "budget": 20,
+      "serves": 2,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "高蛋白質，快手小食",
+      "ingredients": [
+        "毛豆 300g",
+        "鹽 1茶匙",
+        "水"
+      ],
+      "steps": [
+        "毛豆洗淨",
+        "水滾加鹽",
+        "加毛豆煮5分鐘",
+        "瀝乾即可"
+      ],
+      "tips": "冷食或熱食都好",
+      "nutritionHighlights": [
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
+    },
+    {
+      "id": "82",
+      "slug": "indian-tandoori-vegetables",
+      "title": "印度烤蔬菜",
+      "titleEn": "Tandoori Vegetables",
+      "cuisine": "indian",
+      "budget": 30,
+      "serves": 2,
+      "time": 18,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "烤香蔬菜，低碳水",
+      "ingredients": [
+        "花椰菜 200g",
+        "洋蔥 1個",
+        "乳酪 100ml",
+        "香料粉 1茶匙"
+      ],
+      "steps": [
+        "蔬菜切件",
+        "混合乳酪香料",
+        "醃15分鐘",
+        "烤箱200°C烤15分鐘"
+      ],
+      "tips": "提前醃會更入味",
+      "nutritionHighlights": [
+        "維他命C、纖維、低醣",
+        "槲皮素、抗氧化、維他命C",
+        "益生菌、蛋白質、鈣，助腸道健康",
+        "抗氧化、抗炎、促進消化",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "83",
+      "slug": "mediterranean-grilled-chicken",
+      "title": "地中海烤雞",
+      "titleEn": "Mediterranean Grilled Chicken",
+      "cuisine": "mediterranean",
+      "budget": 55,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡健康，香草醃制",
+      "ingredients": [
+        "雞胸 300g",
+        "檸檬 1個",
+        "橄欖油 2湯匙",
+        "香草 2枝"
+      ],
+      "steps": [
+        "雞胸混合檸檬油香草",
+        "醃20分鐘",
+        "烤箱200°C烤12分鐘"
+      ],
+      "tips": "嫩滑多汁",
+      "nutritionHighlights": [
+        "高蛋白、維他命B6，低脂肪精瘦肉",
+        "維他命C、促進鐵吸收、心血管健康",
+        "單元不飽和脂肪、心臟健康",
+        "抗氧化、抗炎、芳香療法",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "84",
+      "slug": "western-grilled-vegetables",
+      "title": "燒烤蔬菜",
+      "titleEn": "Grilled Vegetables",
+      "cuisine": "western",
+      "budget": 25,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "快手配菜，香氣十足",
+      "ingredients": [
+        "蔬菜混合 300g",
+        "橄欖油 2湯匙",
+        "蒜 2瓣",
+        "香草"
+      ],
+      "steps": [
+        "蔬菜切件",
+        "淋橄欖油",
+        "撒蒜香草",
+        "烤箱200°C烤10分鐘"
+      ],
+      "tips": "高溫快烤",
+      "nutritionHighlights": [
+        "多元維他命、纖維，抗氧化",
+        "單元不飽和脂肪、心臟健康",
+        "大蒜素、免疫支持、心血管健康",
+        "抗氧化、抗炎、芳香療法",
+        "油有助脂溶性維他命（A/K）吸收"
+      ]
+    },
+    {
+      "id": "85",
+      "slug": "western-chicken-salad",
+      "title": "西式雞肉沙律",
+      "titleEn": "Chicken Salad",
+      "cuisine": "western",
+      "budget": 50,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "清爽營養，快手餐",
+      "ingredients": [
+        "雞肉 200g",
+        "生菜 150g",
+        "番茄 1個",
+        "橄欖油 1湯匙"
+      ],
+      "steps": [
+        "雞肉煮熟切粒",
+        "生菜番茄切件",
+        "混合所有材料",
+        "淋橄欖油油醋即可"
+      ],
+      "tips": "即做即食",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒",
+        "維他命K/A、纖維、水分",
+        "茄紅素、維他命C、鉀，抗氧化",
+        "單元不飽和脂肪、心臟健康",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "86",
+      "slug": "taiwanese-braised-chicken",
+      "title": "台式滷雞腿",
+      "titleEn": "Taiwanese Braised Chicken",
+      "cuisine": "taiwanese",
+      "budget": 60,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "滷香濃郁，台灣經典",
+      "ingredients": [
+        "雞腿 2隻",
+        "滷汁 200ml",
+        "蒜 3瓣",
+        "薑 1段"
+      ],
+      "steps": [
+        "混合滷汁香料",
+        "雞腿下鑊煮",
+        "大火轉小火20分鐘",
+        "入味即可"
+      ],
+      "tips": "可提前製做冷食",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒，低脂肪部位",
+        "氨基酸、香料，礦物質",
+        "大蒜素、免疫支持、心血管健康",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "87",
+      "slug": "korean-beef-stew",
+      "title": "韓式牛肉湯",
+      "titleEn": "Korean Beef Stew",
+      "cuisine": "korean",
+      "budget": 70,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb"
+      ],
+      "image": "https://images.unsplash.com/photo-1585937421612-0f3c003ba2d4?w=400&auto=format&fit=crop&q=60",
+      "description": "溫暖舒服，冬日必備",
+      "ingredients": [
+        "牛肉 300g",
+        "蘿蔔 150g",
+        "醬油 2湯匙",
+        "蒜 3瓣"
+      ],
+      "steps": [
+        "蘿蔔牛肉切件",
+        "高湯煮滾",
+        "加牛肉蘿蔔",
+        "加醬油蒜煮15分鐘"
+      ],
+      "tips": "慢火讓肉更嫩",
+      "nutritionHighlights": [
+        "血紅素鐵、維他命B12、鋅、蛋白質",
+        "維他命C、纖維、澱粉酶，助消化",
+        "氨基酸、鐵，少鈉更佳",
+        "大蒜素、免疫支持、心血管健康",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "88",
+      "slug": "thai-shrimp-soup",
+      "title": "泰式蝦湯",
+      "titleEn": "Thai Shrimp Soup",
+      "cuisine": "thai",
+      "budget": 65,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1585937421612-0f3c003ba2d4?w=400&auto=format&fit=crop&q=60",
+      "description": "酸辣開胃，清湯鮮香",
+      "ingredients": [
+        "蝦 200g",
+        "檸檬葉 3葉",
+        "魚露 1湯匙",
+        "辣椒 1條"
+      ],
+      "steps": [
+        "高湯煮滾",
+        "加蝦",
+        "加檸檬葉魚露辣椒",
+        "煮至蝦變紅即可"
+      ],
+      "tips": "快手湯品5分鐘完成",
+      "nutritionHighlights": [
+        "硒、碘、低脂肪、高蛋白",
+        "維他命C、抗氧化、芳香",
+        "蛋白質、碘、礦物質，少鹽更佳",
+        "維他命C、辣椒素、促進新陳代謝",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "89",
+      "slug": "indian-tikka-chicken",
+      "title": "印度烤雞丁",
+      "titleEn": "Chicken Tikka",
+      "cuisine": "indian",
+      "budget": 55,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "香料烤雞，外脆內嫩",
+      "ingredients": [
+        "雞胸 300g",
+        "乳酪 100ml",
+        "香料粉 1湯匙",
+        "檸檬汁 1湯匙"
+      ],
+      "steps": [
+        "雞肉切件混合乳酪香料",
+        "醃30分鐘",
+        "竹籤串起",
+        "烤箱200°C烤15分鐘"
+      ],
+      "tips": "即烤即食最香",
+      "nutritionHighlights": [
+        "高蛋白、維他命B6，低脂肪精瘦肉",
+        "益生菌、蛋白質、鈣，助腸道健康",
+        "抗氧化、抗炎、促進消化",
+        "維他命C、促進鐵吸收",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "90",
+      "slug": "mediterranean-baked-fish",
+      "title": "地中海焗魚",
+      "titleEn": "Mediterranean Baked Fish",
+      "cuisine": "mediterranean",
+      "budget": 75,
+      "serves": 2,
+      "time": 18,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡香氣，簡單優雅",
+      "ingredients": [
+        "白魚 400g",
+        "番茄 2個",
+        "橄欖 50g",
+        "香草",
+        "橄欖油 2湯匙"
+      ],
+      "steps": [
+        "魚放焗盤",
+        "舖番茄橄欖香草",
+        "淋橄欖油",
+        "焗350°F 12分鐘"
+      ],
+      "tips": "用錫紙包裝最簡單",
+      "nutritionHighlights": [
+        "優質蛋白質、Omega-3、維他命D，低脂肪",
+        "茄紅素、維他命C、鉀，抗氧化",
+        "單元不飽和脂肪、抗氧化",
+        "抗氧化、抗炎、芳香療法",
+        "單元不飽和脂肪、心臟健康"
+      ]
+    },
+    {
+      "id": "91",
+      "slug": "western-beef-steak",
+      "title": "西式牛排",
+      "titleEn": "Beef Steak",
+      "cuisine": "western",
+      "budget": 95,
+      "serves": 1,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1618958536149-5a3b3d3f7d5c?w=400&auto=format&fit=crop&q=60",
+      "description": "快手高級餐，分鐘搞定",
+      "ingredients": [
+        "牛排 250g",
+        "鹽 少許",
+        "黑胡椒",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "牛排室溫靜置",
+        "熱鑊下油",
+        "牛排煎2分鐘一面",
+        "靜置3分鐘"
+      ],
+      "tips": "不要過度煮",
+      "nutritionHighlights": [
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "健康脂肪，提供能量",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者",
+        "無麩質，適合麩質敏感人士"
+      ]
+    },
+    {
+      "id": "92",
+      "slug": "japanese-miso-soup",
+      "title": "日式味噌湯",
+      "titleEn": "Miso Soup",
+      "cuisine": "japanese",
+      "budget": 25,
+      "serves": 2,
+      "time": 8,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1585937421612-0f3c003ba2d4?w=400&auto=format&fit=crop&q=60",
+      "description": "清淡健康，每天早餐",
+      "ingredients": [
+        "高湯 400ml",
+        "味噌 1湯匙",
+        "豆腐 100g",
+        "海帶 1條"
+      ],
+      "steps": [
+        "高湯煮滾",
+        "加海帶",
+        "加豆腐",
+        "加味噌溶解即可"
+      ],
+      "tips": "勿煮滾以保營養",
+      "nutritionHighlights": [
+        "礦物質、膠原蛋白、鮮味",
+        "益生菌、礦物質、酶，助消化",
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "碘、甲狀腺支持、礦物質",
+        "碘＋植物蛋白，甲狀腺支持"
+      ]
+    },
+    {
+      "id": "93",
+      "slug": "chinese-ginger-chicken",
+      "title": "薑母雞",
+      "titleEn": "Ginger Chicken",
+      "cuisine": "chinese",
+      "budget": 60,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&auto=format&fit=crop&q=60",
+      "description": "溫暖驅寒，經典湯品",
+      "ingredients": [
+        "雞 1隻",
+        "薑 150g",
+        "麻油 2湯匙",
+        "水"
+      ],
+      "steps": [
+        "薑切片",
+        "麻油下鑊爆薑",
+        "加雞肉炒香",
+        "加水煮30分鐘"
+      ],
+      "tips": "冬天滋補必備",
+      "nutritionHighlights": [
+        "蛋白質、維他命B6、硒",
+        "薑辣素、抗氧化、助消化、驅寒",
+        "芝麻油健康脂肪、維他命E、抗氧化",
+        "低碳水有助血糖控制",
+        "低碳適合減脂人士及糖尿病患者"
+      ]
+    },
+    {
+      "id": "94",
+      "slug": "hong-kong-mixed-vegetables",
+      "title": "港式雜菜炒",
+      "titleEn": "Hong Kong Mixed Vegetables",
+      "cuisine": "hong-kong",
+      "budget": 35,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "多彩健康，營養均衡",
+      "ingredients": [
+        "西蘭花 100g",
+        "紅蘿蔔 100g",
+        "蘑菇 100g",
+        "蒜 2瓣",
+        "油 1湯匙"
+      ],
+      "steps": [
+        "所有蔬菜切件",
+        "蒜下鑊炒香",
+        "加蔬菜快炒",
+        "加鹽調味"
+      ],
+      "tips": "保持蔬菜爽身",
+      "nutritionHighlights": [
+        "維他命C/K、纖維、抗氧化",
+        "β-胡蘿蔔素、維他命A、纖維",
+        "維他命D、硒、免疫支持",
+        "大蒜素、免疫支持、心血管健康",
+        "健康脂肪，提供能量"
+      ]
+    },
+    {
+      "id": "95",
+      "slug": "vietnamese-beef-salad",
+      "title": "越南牛肉沙律",
+      "titleEn": "Vietnamese Beef Salad",
+      "cuisine": "vietnamese",
+      "budget": 60,
+      "serves": 2,
+      "time": 15,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&auto=format&fit=crop&q=60",
+      "description": "酸辣爽口，清新開胃",
+      "ingredients": [
+        "牛肉 250g",
+        "生菜 150g",
+        "薄荷 1束",
+        "檸檬汁 2湯匙",
+        "魚露 1湯匙"
+      ],
+      "steps": [
+        "牛肉煮熟切片",
+        "混合生菜薄荷",
+        "淋檸檬汁魚露",
+        "混合即可"
+      ],
+      "tips": "可冷食更爽口",
+      "nutritionHighlights": [
+        "血紅素鐵、維他命B12、鋅、蛋白質",
+        "維他命K/A、纖維、水分",
+        "助消化、維他命A、芳香",
+        "維他命C、促進鐵吸收",
+        "蛋白質、碘、礦物質，少鹽更佳"
+      ]
+    },
+    {
+      "id": "96",
+      "slug": "british-fish-chips-alternative",
+      "title": "英式烤魚薯",
+      "titleEn": "Baked Fish and Vegetables",
+      "cuisine": "british",
+      "budget": 65,
+      "serves": 2,
+      "time": 20,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb"
+      ],
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&auto=format&fit=crop&q=60",
+      "description": "簡單家庭菜，低油健康",
+      "ingredients": [
+        "白魚 300g",
+        "蔬菜 200g",
+        "橄欖油 2湯匙",
+        "鹽及黑胡椒"
+      ],
+      "steps": [
+        "蔬菜切件",
+        "魚放焗盤",
+        "淋橄欖油",
+        "烤箱190°C烤15分鐘"
+      ],
+      "tips": "全家都喜歡",
+      "nutritionHighlights": [
+        "優質蛋白質、Omega-3、維他命D，低脂肪",
+        "多元維他命、纖維，抗氧化",
+        "單元不飽和脂肪、心臟健康",
+        "胡椒鹼、抗氧化、促進鐵吸收",
+        "油有助脂溶性維他命（A/K）吸收"
+      ]
+    },
+    {
+      "id": "97",
+      "slug": "italian-grilled-vegetables",
+      "title": "意大利燒烤菜",
+      "titleEn": "Italian Grilled Vegetables",
+      "cuisine": "italian",
+      "budget": 30,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&auto=format&fit=crop&q=60",
+      "description": "簡單快手，香氣十足",
+      "ingredients": [
+        "蔬菜混合 300g",
+        "橄欖油 2湯匙",
+        "蒜 2瓣",
+        "迷迭香"
+      ],
+      "steps": [
+        "蔬菜切件",
+        "淋橄欖油",
+        "撒蒜迷迭香",
+        "烤箱200°C烤12分鐘"
+      ],
+      "tips": "高溫快烤更香",
+      "nutritionHighlights": [
+        "多元維他命、纖維，抗氧化",
+        "單元不飽和脂肪、心臟健康",
+        "大蒜素、免疫支持、心血管健康",
+        "抗氧化、抗炎、記憶力支持",
+        "油有助脂溶性維他命（A/K）吸收"
+      ]
+    },
+    {
+      "id": "98",
+      "slug": "french-dijon-pork",
+      "title": "法式第戎豬肉",
+      "titleEn": "French Dijon Pork",
+      "cuisine": "french",
+      "budget": 70,
+      "serves": 2,
+      "time": 18,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1618958536149-5a3b3d3f7d5c?w=400&auto=format&fit=crop&q=60",
+      "description": "香料醬豬肉，軟嫩多汁",
+      "ingredients": [
+        "豬肉 300g",
+        "第戎芥末 2湯匙",
+        "檸檬汁 1湯匙",
+        "蒜 2瓣"
+      ],
+      "steps": [
+        "豬肉混合醬料",
+        "醃20分鐘",
+        "烤箱200°C烤15分鐘"
+      ],
+      "tips": "切後保持多汁",
+      "nutritionHighlights": [
+        "蛋白質、維他命B1、鋅",
+        "抗氧化、促進消化",
+        "維他命C、促進鐵吸收",
+        "大蒜素、免疫支持、心血管健康",
+        "低碳水有助血糖控制"
+      ]
+    },
+    {
+      "id": "99",
+      "slug": "korean-kimchi-tofu",
+      "title": "韓式泡菜豆腐",
+      "titleEn": "Korean Kimchi Tofu",
+      "cuisine": "korean",
+      "budget": 40,
+      "serves": 2,
+      "time": 10,
+      "difficulty": "easy",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb",
+        "gluten-free"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "發酵香辣，快手下飯",
+      "ingredients": [
+        "豆腐 1磚",
+        "泡菜 100g",
+        "油 1湯匙",
+        "蒜蓉 1茶匙"
+      ],
+      "steps": [
+        "豆腐切塊",
+        "泡菜切碎",
+        "蒜下鑊炒香",
+        "加豆腐泡菜炒",
+        "加鹽調味"
+      ],
+      "tips": "泡菜帶鹹味不要加太多鹽",
+      "nutritionHighlights": [
+        "優質植物蛋白、異黃酮、鈣質，含鎂及鐵",
+        "益生菌、消化健康、維他命K",
+        "健康脂肪，提供能量",
+        "大蒜素、免疫支持、心血管健康",
+        "蒜有助提升免疫力，蛋白質互補"
+      ]
+    },
+    {
+      "id": "100",
+      "slug": "taiwanese-oyster-omelette",
+      "title": "台式蚵仔煎",
+      "titleEn": "Oyster Omelette",
+      "cuisine": "taiwanese",
+      "budget": 85,
+      "serves": 2,
+      "time": 12,
+      "difficulty": "medium",
+      "dietary": [
+        "diabetic-friendly",
+        "low-carb"
+      ],
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&auto=format&fit=crop&q=60",
+      "description": "鮮香軟滑，台灣小食",
+      "ingredients": [
+        "蚵仔 150g",
+        "蛋 2隻",
+        "蔥 1條",
+        "油 2湯匙"
+      ],
+      "steps": [
+        "蔥切段",
+        "蛋打散",
+        "蚵仔混合蛋液",
+        "熱鑊下油倒蛋液",
+        "煎至邊緣焦脆"
+      ],
+      "tips": "邊緣焦脆中間軟滑",
+      "nutritionHighlights": [
+        "鋅、鐵、維他命B12，生津護血",
+        "維他命A/D/B12、膽鹼、蛋白質",
+        "維他命C、纖維、抗氧化",
+        "健康脂肪，提供能量",
+        "鋅含量極高，提升免疫力"
+      ]
     }
   ]
 }

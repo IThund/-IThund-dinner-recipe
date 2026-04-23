@@ -14,6 +14,7 @@ export interface Recipe {
   ingredients: string[];
   steps: string[];
   tips: string;
+  nutritionHighlights: string[];
 }
 
 export interface FilterState {
@@ -34,6 +35,11 @@ export const cuisines = [
   { id: 'korean', name: 'Korean', nameZh: '韓式', icon: '🍲' },
   { id: 'taiwanese', name: 'Taiwanese', nameZh: '台式', icon: '🍜' },
   { id: 'chinese', name: 'Chinese', nameZh: '中式', icon: '🥢' },
+  { id: 'indian', name: 'Indian', nameZh: '印式', icon: '🫓' },
+  { id: 'british', name: 'British', nameZh: '英式', icon: '🍖' },
+  { id: 'mediterranean', name: 'Mediterranean', nameZh: '地中海', icon: '🫒' },
+  { id: 'french', name: 'French', nameZh: '法式', icon: '🥐' },
+  { id: 'italian', name: 'Italian', nameZh: '意式', icon: '🍕' },
 ];
 
 export const dietaryOptions = [
