@@ -1,6 +1,5 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { Image } from 'astro:assets';
 import { getCuisineName, getTimeLabel } from '../../utils/recipes';
 import recipesData from '../../data/recipes.json';
 
@@ -38,11 +37,9 @@ const { recipe } = Astro.props;
   <!-- Recipe Hero -->
   <section class="relative">
     <div class="aspect-[16/9] md:aspect-[21/9] overflow-hidden">
-      <Image
+      <img
         src={recipe.image}
         alt={recipe.title}
-        width={1200}
-        height={675}
         class="w-full h-full object-cover"
         loading="lazy"
         decoding="async"
